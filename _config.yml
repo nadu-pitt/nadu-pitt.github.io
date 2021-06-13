@@ -1,0 +1,41 @@
+title: Na Du
+author: Na Du
+# email: your-email@domain.com
+# description:
+google_analytics: UA-199323262-1
+
+url: "http://nadu-pitt.github.io/"
+baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+  - cv.md
+  - research.md
+  - pub.md
+  - teaching.md
+  - prospective_students.md
+  # - grant.md
+  # - contact.md
+
+paginate: 5
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec
+
+paginate_path: "/news/page:num/"

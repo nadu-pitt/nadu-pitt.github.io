@@ -1,0 +1,244 @@
+$layout-color-border: #e9ecef !default;
+$layout-color-background: #fdfdfd !default;
+$layout-color-syntax-highlighting-background: #f8f9fa !default;
+$layout-responsive-nav-cutoff: 992px !default;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body {
+  background-color: $layout-color-background;
+  font-family: "Inter", Helvetica, sans-serif;
+}
+
+
+
+#nav-header {
+  border-top: 0px solid !important;
+  a:hover{text-decoration: none; }
+}
+
+#nav-site-title {
+  font-weight: 500;
+  
+}
+
+
+#nav-container {
+  height: 3.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    font-size: 1.1rem;
+  }
+}
+
+#nav-menu-container {
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    position: absolute;
+    z-index: 100;
+    top: 0.4375rem;
+    right: 1rem;
+    border: 1px solid $layout-color-border;
+    border-radius: .25rem;
+    background-color: $layout-color-background;
+  }
+  a {color: #363636;}
+  a:hover{ color: #1f14f5; }
+
+  
+}
+
+
+#nav-trigger:checked ~ #nav-menu {
+  display: block !important;
+}
+
+#content {
+  h1, h2, h3, h4 {
+    margin-top: 0rem;
+    margin-bottom: 0.4rem;
+    text-align: left;
+  }
+  blockquote {
+    border-left: 4px solid $layout-color-border;
+    padding-left: 1rem;
+    font-style: italic
+  }
+  .footnotes {
+    text-align: left;
+  }
+}
+
+#rss-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='rgb(134, 142, 150)' d='M119.9,336.1c-30.8,0-55.9,25.1-55.9,55.8c0,30.8,25.1,55.6,55.9,55.6c30.9,0,55.9-24.9,55.9-55.6,C175.8,361.2,150.8,336.1,119.9,336.1z'/%3E%3Cpath fill='rgb(134, 142, 150)' d='M64,192v79.9c48,0,94.1,14.2,128,48.1c33.9,33.9,48,79.9,48,128h80C320,308.1,204,192,64,192z'/%3E%3Cpath fill='rgb(134, 142, 150)' d='M64,64v79.9c171,0,303.9,133,303.9,304.1H448C448,236.3,276,64,64,64z'/%3E%3C/svg%3E")
+}
+
+
+.highlight pre {
+  border: 1px solid $layout-color-border;
+  border-radius: .25rem;
+  background-color: $layout-color-syntax-highlighting-background;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  white-space: pre-wrap;
+}
+
+
+// My customized css
+
+.avatar {
+  display: block;
+  border-radius: 50%;
+  box-sizing: border-box;
+  background-color: #DDD;
+  float: right;
+  width: 250px;
+  top: 1rem;
+  bottom: 1rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  transition: 0.5s all ease-in-out;
+
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+.avatar:hover {
+  transform: scale(1.05) rotate(2deg); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    transform: rotate(2deg) ;
+  }
+}
+
+.icenter {
+	display: block;
+	
+  margin-left: auto;
+  margin-right: auto;
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    width: 100%;
+  }
+}
+
+.textwrapper {
+  &__image {
+    width: 600px;
+    float: left;
+    margin: 0 40px 0 0;
+  }
+  &__text {
+    display: inline;
+  }
+}
+
+
+
+.main-topic::after{
+  content:"";
+  display:block;
+  clear:both;
+}
+.right-text{
+  width:50%;
+  float:right;
+}
+.left-picture{
+  float:left;
+  width:50%;
+}
+.left-picture img{
+  max-width:100%
+}
+
+
+
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+
+}
+
+h3 {
+  font-size: 1.15rem;
+
+}
+
+h4, h5, h6  {
+  font-size: 1.10rem;
+
+}
+
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: 500;
+}
+
+// # for TOC off-set
+h2:before{
+  display: block;
+  height: 5rem;
+  margin-top: -5rem;
+  visibility: hidden;
+  content: "";
+}
+
+
+a {
+	color: #1f14f5;
+	text-decoration: none;
+}
+
+a:hover{color: #1f14f5; }
+#site-footer {
+	font-size: 90%;
+
+	padding-top: 0.1em;
+	margin-top: 2.0em;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+	text-align: center;
+	color: #c0c0c0;
+
+}
+
+
+.navbar-toggler-icon {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle;
+  content: "menu";
+}
+
+.alert {
+  padding: 0.75rem 2rem;
+  font-size: 0.96em;
+}
+
+
+.alert-success {
+  line-height: 1.8em;
+  background-color: #1f14f5;
+  color: rgb(33, 33, 33);
+
+}
+
+.alert-primary {
+  line-height: 1.8em;
+  color: rgb(33, 33, 33);
+
+}
+.btn-sm{padding: 0.00rem .5rem;}
+
+
