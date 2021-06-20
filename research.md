@@ -24,10 +24,10 @@ Intelligent transportation systems with connected and automated vehicles (CAVs) 
 			<div class="right-text">
 				<p>
 <UL>
-<li>Du et al. (2020). Physiological responses to takeover requests in conditionally automated driving. Accident & Analysis Prevention. </li>
-<li>Du et al. (2020). Examining the effects of emotional valence and arousal on takeover performance in conditionally automated driving. Transportation Research Part C: Emerging Technologies. [PDF]</li>
-<li>Du et al. (2020). Evaluating Effects of Cognitive Load, Takeover Request Lead Time, and Traffic Density on Drivers' Takeover Performance in Conditionally Automated Driving. Automotive UI 2020. [PDF] [Video]</li>
-<li>Du et al. (2020). Examining effects of scenario type and vehicle speed on takeover readiness and performance in conditionally automated driving. HFES 2020. [Video]</li>
+<li>Du et al. (2020). Physiological responses to takeover requests in conditionally automated driving. Accident & Analysis Prevention. <a href="http://doi.org/10.1016/j.aap.2020.105804">[PDF]</a> </li>
+<li>Du et al. (2020). Examining the effects of emotional valence and arousal on takeover performance in conditionally automated driving. Transportation Research Part C: Emerging Technologies.  <a href="http://doi.org/10.1016/j.trc.2020.01.006">[PDF]</a> </li>
+<li>Du et al. (2020). Evaluating Effects of Cognitive Load, Takeover Request Lead Time, and Traffic Density on Drivers' Takeover Performance in Conditionally Automated Driving. Automotive UI 2020.  <a href="http://doi.org/10.1145/3409120.3410666">[PDF]</a>  <a href="https://www.youtube.com/watch?v=F34DHjgcn2I">[Video]</a> </li>
+<li>Du et al. (2020). Examining effects of scenario type and vehicle speed on takeover readiness and performance in conditionally automated driving. HFES 2020. <a href="https://doi.org/10.1177/1071181320641482">[PDF]</a>  <a href="https://www.youtube.com/watch?v=Ln4pPmwiI9M">[Video]</a> </li>
 </UL>
 				</p>
 			</div>
@@ -70,8 +70,8 @@ factors and machine learning, we develop computational models that are capable o
 			<div class="right-text">
 				<p>
 <UL>
-<li>Du et al. (2020). Predicting Driver Takeover Performance in Conditionally Automated Driving. Accident & Analysis Prevention. </li>
-<li>Du et al. (2020). Predicting Takeover Performance in Conditionally Automated Driving. CHI 2020. [PDF]</li>
+<li>Du, N., Zhou, F., Pulver E., Tilbury, D. M., Robert, L. P., Pradhan, A. K., & Yang, X. J. (2020). Predicting driver takeover performance in  conditionally  automated  driving. Accident & Analysis Prevention. <a href="http://doi.org/10.1016/j.aap.2020.105748">[PDF]</a> </li>
+<li>Du, N., Zhou, F., Pulver E., Tilbury, D. M., Robert, L. P., Pradhan, A. K., & Yang, X. J. (2020). Predicting Takeover Performance in Conditionally Automated Driving. CHI 2020. <a href="http://doi.org/10.1145/3334480.3382963">[PDF]</a> </li>
 </UL>
 				</p>
 			</div>
@@ -103,10 +103,10 @@ Automated decision aids have been used in a wide array of domains such as milita
 			<div class="right-text">
 				<p>
 <UL>
-<li>Du, N., Haspiel, J., Zhang, Q., Tilbury, D., Pradhan, A. K., Yang, X. J., & Robert Jr, L. P. (2019). Look who’s talking now: Implications of AV’s explanations on driver’s trust, AV preference, anxiety and mental workload. Transportation Research Part C. [PDF]</li>
-<li>Haspiel, J., Du, N., Yang, X. J., Tilbury, D., Pradhan, A., Robert, L. P., (2018). Explanations and Expectations: Trust Building in Automated Vehicles. HRI 2018. [PDF]</li>
-<li>Du, N., Tilbury, D., Robert, L., Yang, X. J., & Pradhan, A. (2018). A Cross-Cultural Study of Trust Building in Autonomous Vehicles. The Conference on Autonomous Vehicles in Society: Building a Research Agenda. [PDF]</li>
-<li>Zhang, Q., Du, N., Yang, X. J., & Robert, L. (2018). Trust in AVs: The Impact of Expectations and Individual Differences. The Conference on Autonomous Vehicles in Society: Building a Research Agenda. [PDF]</li>
+<li>Du, N., Haspiel, J., Zhang, Q., Tilbury, D., Pradhan, A. K., Yang, X. J., & Robert Jr, L. P. (2019). Look who’s talking now: Implications of AV’s explanations on driver’s trust, AV preference, anxiety and mental workload. Transportation Research Part C.  <a href="http://doi.org/10.1016/j.trc.2019.05.025">[PDF]</a> </li>
+<li>Haspiel, J., Du, N., Yang, X. J., Tilbury, D., Pradhan, A., Robert, L. P., (2018). Explanations and Expectations: Trust Building in Automated Vehicles. HRI 2018.  <a href="http://doi.org/10.1145/3173386.3177057">[PDF]</a> </li>
+<li>Du, N., Tilbury, D., Robert, L., Yang, X. J., & Pradhan, A. (2018). A Cross-Cultural Study of Trust Building in Autonomous Vehicles. The Conference on Autonomous Vehicles in Society: Building a Research Agenda.  <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/142564/Du%20et%20al.%202018.pdf?sequence=1">[PDF]</a> </li>
+<li>Zhang, Q., Du, N., Yang, X. J., & Robert, L. (2018). Trust in AVs: The Impact of Expectations and Individual Differences. The Conference on Autonomous Vehicles in Society <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/142567/Zhang%20et%20al.%202018.pdf?sequence=1">[PDF]</a> </li>
 </UL>
 				</p>
 			</div>
@@ -128,8 +128,8 @@ Automated decision aids have been used in a wide array of domains such as milita
 			<div class="right-text">
 				<p>
 <UL>
-<li>Du, N., Huang, K., Yang, X. J. (2019). Not all information is equal: Effects of disclosing likelihood information on trust, compliance and reliance, and task performance in human-automation teaming. Human Factors. [PDF]</li>
-<li>Du N., Zhang Q., & Yang, X. J. (2018). Effects of automation reliability and reliability information on trust, dependence and dual-task performance. HFES 2018. [PDF]</li>
+<li>Du, N., Huang, K., Yang, X. J. (2019). Not all information is equal: Effects of disclosing likelihood information on trust, compliance and reliance, and task performance in human-automation teaming. Human Factors. <a href="http://doi.org/10.1177/0018720819862916">[PDF]</a> </li>
+<li>Du N., Zhang Q., & Yang, X. J. (2018). Effects of automation reliability and reliability information on trust, dependence and dual-task performance. HFES 2018. <a href="http://doi.org/10.1177/1541931218621041">[PDF]</a> </li>
 </UL>
 				</p>
 			</div>
@@ -150,7 +150,7 @@ Automated decision aids have been used in a wide array of domains such as milita
 			<div class="right-text">
 				<p>
 <UL>
-<li>Luo, R., Du, N., Huang, K. Y., & Yang, X. J. (2019). Enhancing  Transparency in Human-autonomy Teaming via the Option-centric Rationale Display. HFES 2019. [PDF]</li>
+<li>Luo, R., Du, N., Huang, K. Y., & Yang, X. J. (2019). Enhancing  Transparency in Human-autonomy Teaming via the Option-centric Rationale Display. HFES 2019. <a href="http://doi.org/10.1177/1071181319631366">[PDF]</a></li>
 </UL>
 				</p>
 			</div>
@@ -160,6 +160,7 @@ Automated decision aids have been used in a wide array of domains such as milita
   </div>
 
 {:/}
+
 
 
 

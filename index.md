@@ -6,20 +6,20 @@ layout: page
 <!-- <p>&nbsp;</p> -->
 
 
-<img src="images/Profile/NaDu2.jpeg" class="avatar" alt="Avatar" width="80" height="315">
+<img src="images/Profile/NaDu2.jpeg" class="avatar" alt="Avatar" width="80" height="310">
 
 <!-- <img align="left" width="300" height="300" src="https://ioe.engin.umich.edu/wp-content/uploads/sites/4/2017/09/NaDu_600x600_2020.jpeg"> -->
 
 
 
-I’m an Assistant Professor in the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. I received my Ph.D. in Industrial & Operations Engineering from University of Michigan, working with Jessie Yang. I also received a Graduate Certificate in Data Science at Michigan Institute for Data Science. Prior to Ph.D., I received my Bachelor’s degree in Psychology from Zhejiang University. My research interests include human factors in smart city domains, human-centered computing, and user experience design. **I am looking for Ph.D. students and undergraduate/master researchers!**
+I’m an Assistant Professor in the [Department of Informatics and Networked Systems](https://www.dins.pitt.edu/), [School of Computing and Information](https://www.sci.pitt.edu/), at the [University of Pittsburgh](https://www.pitt.edu/). I received my Ph.D. in  Industrial & Operations Engineering from [University of Michigan](https://ioe.engin.umich.edu/). I also received a Graduate Certificate in Data Science at [Michigan Institute for Data Science](https://midas.umich.edu/). My research interests include human factors in smart city domains, human-centered computing, and user experience design. I am actively looking for Ph.D. students and undergraduate/master researchers! See more information [here](./prospective_students).
 
-
+<!-- Prior to Ph.D., I received my Bachelor’s degree in Psychology from Zhejiang University.  -->
 
 
 
 ## Contact
-- Email: nadu@umich.edu
+- Email: nad136@pitt.edu
 - Office: Information Science Building, 135 North Bellefield Avenue, Pittsburgh, PA 15260
 
 
@@ -33,13 +33,12 @@ I’m an Assistant Professor in the Department of Informatics and Networked Syst
 
 ## News
 - 04/2021: I passed my dissertation defense.
-- 01/2021: I received the Towner Prize for Distinguished Academic Achievement at University of Michigan.
+- 01/2021: I received the [Towner Prize for Distinguished Academic Achievement](https://studentaffairs.engin.umich.edu/graduate-student-achievements/) at University of Michigan. 
 - 11/2020: I start an internship at Honda Research Institution.
 - 10/2020: I received the Metropolitan Detroit Society for Information Display Academic Award.
-- 10/2020: I received the HFE WOMAN Rising Star Award and HFES Student Member with Honors Award.
+- 10/2020: I received the [HFE WOMAN Rising Star Award](https://www.hfewoman.com/awards) and [HFES Student Member with Honors Award](https://www.hfes.org/Membership/Awards/Student-and-Student-Chapter-Awards). 
 
-
-View all news [\[here\]](./all_news)!
+View all news [here](./all_news)!
 
 <!-- ---
 ## Latest publications
