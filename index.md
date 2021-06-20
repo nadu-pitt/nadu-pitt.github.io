@@ -28,7 +28,6 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=MaiIv1cAAAAJ&view_op=list_works), [Researchgate](https://www.researchgate.net/profile/Na-Du-7), [Twitter](https://twitter.com/Na_Du__), [Linkedin](https://www.linkedin.com/in/na-du-881781aa/)
 
-
 ---
 
 ## News
