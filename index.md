@@ -6,7 +6,7 @@ layout: page
 <!-- <p>&nbsp;</p> -->
 
 
-<img src="images/Profile/NaDu2.jpeg" class="avatar" alt="Avatar" width="80" height="300">
+<img src="images/Profile/NaDu2.jpg" class="avatar" alt="Avatar" width="80" height="300">
 
 <!-- <img align="left" width="300" height="300" src="https://ioe.engin.umich.edu/wp-content/uploads/sites/4/2017/09/NaDu_600x600_2020.jpeg"> -->
 
