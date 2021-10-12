@@ -18,7 +18,7 @@ Strong and self-motivated candidates with ANY of the following qualifications wo
 <!-- Strong candidates should be self-motivated and passionate about research on human-centered systems and have strong data analytical and programming skills. -->
 <!-- psychology and engineering disciplines (Industrial Engineering / Electrical Engineering & Computer Science / Mechanical Engineering / Civil Engineering / etc.) -->
 
-If you are interested in working with me, I encourage you to apply to the [IS PhD program](https://www.dins.pitt.edu/academics/phd-information-science) and mention me in your statement. Feel free to contact me via email with the title “Prospective PhD Student" and include the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests; and (4) representative publications or writing samples if available. I will reach out if there is a potential fit.
+If you are interested in working with me, I encourage you to apply to the [IS PhD program](https://www.dins.pitt.edu/academics/phd-information-science) and mention me in your statement. Feel free to contact me via email with the title “Prospective PhD Student" and include the following information: (1) your CV; (2) a copy of your transcripts; (3) a brief description of your background and research interests; and (4) representative publications or writing samples if available. However, I apologize that I may not be able to reply to the emails and provide feedback. 
 
 
 

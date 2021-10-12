@@ -60,8 +60,7 @@ Intelligent transportation systems with connected and automated vehicles (CAVs) 
 ---
 ## Human Behavior Modeling {#bm2}
 <p></p>
-We use both data-driven methods and cognitive architecture to model dynamic human behaviors and mental states in cyber-physical systems. By leveraging models and methods from both human
-factors and machine learning, we develop computational models that are capable of predicting or inferring human behaviors when they interact with tecnologies. For example, we develop computational models to predict driver takeover performance in conditionally automated driving and situational awareness in highly automated driving. We also use large-scale naturalistic driving datasets and crash databases to model real-world driver bahaviors and improve driving safety. 
+We use both data-driven methods and cognitive architecture to model dynamic human behaviors and mental states in cyber-physical systems. By leveraging models and methods from both human factors and machine learning, we develop computational models that are capable of predicting or inferring human behaviors when they interact with technologies. The inputs of models can be text, video, physiological data, etc. For example, we develop computational models to predict driver takeover performance in conditionally automated driving and situational awareness in highly automated driving. We use large-scale naturalistic driving datasets and crash databases to model real-world driver bahaviors and improve driving safety. 
 
 
 
