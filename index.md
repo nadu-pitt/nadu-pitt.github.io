@@ -20,7 +20,7 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 
 ## Contact
 - Email: nad136@pitt.edu
-- Office: Information Science Building, 135 North Bellefield Avenue, Pittsburgh, PA 15260
+- Office: Room 722, IS Building, 135 North Bellefield Avenue, Pittsburgh, PA 15260
 
 
 
@@ -31,6 +31,7 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News
+- 09/2021: I presented our [paper](https://doi.org/10.1145/3409118.3475155) on in-vehicle alert system design in Automotive UI 2021.
 - 04/2021: I passed my dissertation defense.
 - 01/2021: I received the [Towner Prize for Distinguished Academic Achievement](https://studentaffairs.engin.umich.edu/graduate-student-achievements/) at University of Michigan. 
 - 11/2020: I start an internship at Honda Research Institution.

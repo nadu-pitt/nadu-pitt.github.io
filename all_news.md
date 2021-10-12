@@ -4,6 +4,8 @@ title: News
 
 ---
 
+- 09/2021: I presented our [paper](https://doi.org/10.1145/3409118.3475155) on in-vehicle alert system design in Automotive UI 2021.
+
 - 04/2021: I passed my dissertation defense.
 
 - 01/2021: I received the IOE Outstanding Student Award/[Towner Prize for Distinguished Academic Achievement](https://studentaffairs.engin.umich.edu/graduate-student-achievements/) at University of Michigan. 
