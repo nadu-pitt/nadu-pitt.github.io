@@ -23,7 +23,7 @@ Find below the links to each of the subsections:
 ## Peer-reviewed Journal Papers {#bm1}
 <p></p>
 
-11. Jackie Ayoub, **Du, N.**, Yang, X. J., & Zhou, F. (Accepted). Predicting driver takeover time in conditionally automated driving. . *IEEE Transactions on Intelligent Transportation Systems*. (The first two authors had euqal contribution). \[[DOI](https://arxiv.org/pdf/2107.09545.pdf)\].
+11. Ayoub, J., **Du, N.**, Yang, X. J., & Zhou, F. (Accepted). Predicting driver takeover time in conditionally automated driving. . *IEEE Transactions on Intelligent Transportation Systems*. (The first two authors had euqal contribution). \[[PDF](https://arxiv.org/pdf/2107.09545.pdf)\].
 
 10. Luo, R., **Du, N.**, & Yang, X. J. (Accepted). Enhancing autonomy transparency: an option-centric rationale approach.. *International Journal of Human-Computer Interaction*. 
 
