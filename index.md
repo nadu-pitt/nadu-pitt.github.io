@@ -31,6 +31,8 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News
+- 01/2022: Our [paper](https://arxiv.org/pdf/2107.09545.pdf) on takeover time prediction was accepted by IEEE Transactions on Intelligent Transportation Systems. 
+- 01/2022: Our paper on enhancing autonomy transparency for trustworthy AI was accepted by International Journal of Human-Computer Interaction. 
 - 11/2021: Our [poster](https://www.isaap2021.com/posters) on driver takeover performance modeling was presented in ISAAP2021.
 - 09/2021: I presented our [paper](https://doi.org/10.1145/3409118.3475155) on in-vehicle alert system design in Automotive UI 2021.
 - 04/2021: I passed my dissertation defense.

@@ -23,6 +23,10 @@ Find below the links to each of the subsections:
 ## Peer-reviewed Journal Papers {#bm1}
 <p></p>
 
+11. Jackie Ayoub, **Du, N.**, Yang, X. J., & Zhou, F. (Accepted). Predicting driver takeover time in conditionally automated driving. . *IEEE Transactions on Intelligent Transportation Systems*. (The first two authors had euqal contribution). \[[DOI](https://arxiv.org/pdf/2107.09545.pdf)\].
+
+10. Luo, R., **Du, N.**, & Yang, X. J. (Accepted). Enhancing autonomy transparency: an option-centric rationale approach.. *International Journal of Human-Computer Interaction*. 
+
 9. Wu, C., Zhang, W., You, X., & **Du, N.** (2021). Which accuracy levels of positioning technologies do drivers really need in connected vehicle settings for safety. *Accident Analysis & Prevention*, 106106. \[[DOI](https://doi.org/10.1016/j.aap.2021.106106)\].
 
 8. **Du, N.**, Zhou, F., Pulver E., Tilbury, D. M., Robert, L. P., Pradhan, A. K., & Yang, X. J. (2020). Predicting driver takeover performance in  conditionally  automated  driving. *Accident & Analysis Prevention*. 148, 105748. \[[DOI](http://doi.org/10.1016/j.aap.2020.105748)\].

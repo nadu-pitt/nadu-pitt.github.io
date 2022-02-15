@@ -71,6 +71,8 @@ We use both data-driven methods and cognitive architecture to model dynamic huma
 <UL>
 <li>Du, N., Zhou, F., Pulver E., Tilbury, D. M., Robert, L. P., Pradhan, A. K., & Yang, X. J. (2020). Predicting driver takeover performance in  conditionally  automated  driving. Accident & Analysis Prevention. <a href="http://doi.org/10.1016/j.aap.2020.105748">[PDF]</a> </li>
 <li>Du, N., Zhou, F., Pulver E., Tilbury, D. M., Robert, L. P., Pradhan, A. K., & Yang, X. J. (2020). Predicting Takeover Performance in Conditionally Automated Driving. CHI 2020. <a href="http://doi.org/10.1145/3334480.3382963">[PDF]</a> </li>
+<li>Ayoub, J.*, Du, N.*, Yang, X. J., & Zhou, F. (Accepted). Predicting driver takeover time in conditionally automated driving. IEEE Transactions on Intelligent Transportation Systems.
+(*Equal contribution). <a href="https://arxiv.org/pdf/2107.09545.pdf">[PDF]</a> </li>
 </UL>
 				</p>
 			</div>
