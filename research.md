@@ -69,7 +69,7 @@ We use both data-driven methods and cognitive architecture to model dynamic huma
 			<div class="right-text">
 				<p>
 <UL>
-<li>Ayoub, J.*, Du, N.*, Yang, X. J., & Zhou, F. (2022). Predicting driver takeover time in conditionally automated driving. *IEEE Transactions on Intelligent Transportation Systems*. (*Equal contribution). <a href="https://doi.org/10.1109/TITS.2022.3154329">[PDF]</a> </li>
+<li>Ayoub, J.*, Du, N.*, Yang, X. J., & Zhou, F. (2022). Predicting driver takeover time in conditionally automated driving. IEEE Transactions on Intelligent Transportation Systems. (*Equal contribution). <a href="https://doi.org/10.1109/TITS.2022.3154329">[PDF]</a> </li>
 <li>Du, N., Zhou, F., Pulver E., Tilbury, D. M., Robert, L. P., Pradhan, A. K., & Yang, X. J. (2020). Predicting driver takeover performance in  conditionally  automated  driving. Accident & Analysis Prevention. <a href="http://doi.org/10.1016/j.aap.2020.105748">[PDF]</a> </li>
 <li>Du, N., Zhou, F., Pulver E., Tilbury, D. M., Robert, L. P., Pradhan, A. K., & Yang, X. J. (2020). Predicting Takeover Performance in Conditionally Automated Driving. CHI 2020. <a href="http://doi.org/10.1145/3334480.3382963">[PDF]</a> </li>
 </UL>
@@ -103,7 +103,7 @@ Automated decision aids have been used in a wide array of domains such as milita
 			<div class="right-text">
 				<p>
 <UL>
-<li>Du, N., Robert, L., & Yang, X. J. A Cross-cultural Investigation of the Effects of Explanations on Drivers’ Trust, Preference, and Anxiety in Highly Automated Vehicles. Transportation Research Record.  <a href="https://doi.org/10.1177/03611981221100528">[PDF]</a> </li>
+<li>Du, N., Robert, L., & Yang, X. J. (2022). A Cross-cultural Investigation of the Effects of Explanations on Drivers’ Trust, Preference, and Anxiety in Highly Automated Vehicles. Transportation Research Record.  <a href="https://doi.org/10.1177/03611981221100528">[PDF]</a> </li>
 <li>Du, N., Haspiel, J., Zhang, Q., Tilbury, D., Pradhan, A. K., Yang, X. J., & Robert Jr, L. P. (2019). Look who’s talking now: Implications of AV’s explanations on driver’s trust, AV preference, anxiety and mental workload. Transportation Research Part C.  <a href="http://doi.org/10.1016/j.trc.2019.05.025">[PDF]</a> </li>
 <!-- <li>Haspiel, J., Du, N., Yang, X. J., Tilbury, D., Pradhan, A., Robert, L. P., (2018). Explanations and Expectations: Trust Building in Automated Vehicles. HRI 2018.  <a href="http://doi.org/10.1145/3173386.3177057">[PDF]</a> </li> -->
 <li>Zhang, Q., Du, N., Yang, X. J., & Robert, L. (2018). Trust in AVs: The Impact of Expectations and Individual Differences. The Conference on Autonomous Vehicles in Society <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/142567/Zhang%20et%20al.%202018.pdf?sequence=1">[PDF]</a> </li>
