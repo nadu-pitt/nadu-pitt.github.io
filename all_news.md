@@ -4,9 +4,13 @@ title: News
 
 ---
 
-- 01/2022: Our [paper](https://arxiv.org/pdf/2107.09545.pdf) on takeover time prediction was accepted by IEEE Transactions on Intelligent Transportation Systems. 
+- 06/2022: Our [paper](https://journals.sagepub.com/doi/abs/10.1177/03611981221100528) on cultural investigation of how explanations influence trust was published on Transportation Research Record. 
 
-- 01/2022: Our paper on enhancing autonomy transparency for trustworthy AI was accepted by International Journal of Human-Computer Interaction. 
+- 04/2022: Our [paper](https://www.tandfonline.com/doi/abs/10.1080/10447318.2022.2097602) on enhancing AI transparency in human-autonomy team was accepted by International Journal of Human-Computer Interaction. 
+
+- 03/2022: Our [paper](https://ieeexplore.ieee.org/document/9733956) on takeover time prediction was published on IEEE Transactions on Intelligent Transportation Systems. 
+
+- 01/2022: I was affiliated with [Intelligent Systems Program](https://www.isp.pitt.edu/about).
 
 - 11/2021: Our [poster](https://www.isaap2021.com/posters) on driver takeover performance modeling was presented in ISAAP2021.
 
