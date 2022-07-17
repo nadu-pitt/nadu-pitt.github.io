@@ -4,7 +4,7 @@ title: Research
 ---
 
 
-My research goal is to improve human performance, safety, well-being by applying human factors, data analytics, and cognitive psychology to the analysis, design, and evaluation of the cyber-human systems. Research topics include: 
+Our research goal is to improve human performance, safety, and well-being by applying human factors, data analytics, and cognitive psychology to the analysis, design, and evaluation of the intelligent systems. Research topics include: 
 
 <a role="button" href="#bm1" class="btn btn-primary btn-md">Human Factors in Intelligent Transportation Systems </a>
 <a role="button" href="#bm2" class="btn btn-primary btn-md">Human Behavior Modeling </a>

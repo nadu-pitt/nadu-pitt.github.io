@@ -11,7 +11,7 @@ I am actively looking for students who have strong interests and background in w
 ## Prospective Ph.D. Students
 <p></p>
 
-I have several fully-funded Ph.D. positions in the Department of Informatics and Networked Systems, School of Computing and Information, University of Pittsburgh starting **Fall 2022**. 
+I have several fully-funded Ph.D. positions in the Department of Informatics and Networked Systems, School of Computing and Information, University of Pittsburgh starting **Fall 2023**. 
 
 Strong and self-motivated candidates with ANY of the following qualifications would be particularly encouraged to apply: (1) prior experience in studying human factors/human-computer interaction; (2) knowledge in applied data science and machine learning; (3) skills in programming and developing AR/VR/simulator applications; (4) interdisciplinary research backgrounds (design, engineering, psychology, etc.).
 
