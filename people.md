@@ -1,8 +1,8 @@
 ---
 layout: page
-title: HAT Lab
+title: Human-Autonomy Teaming (HAT) Lab
 ---
-The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, and well-being in intelligent systems, with applications ranging from transportation, healthcare, to military domains. By applying both data-driven and theory-driven methods, the work (1) analyzes how humans interact with technologies; (2) develops computational models to simulate and predict human behaviors; and (3) proposes and evaluates design ideas to enable effective and safe collaborations between humans and intelligent agents. See more information on [Research](./research).
+The HAT Lab aims to improve human performance, safety, and well-being in intelligent systems, with applications ranging from transportation, healthcare, to military domains. By applying both data-driven and theory-driven methods, the work (1) analyzes how humans interact with technologies; (2) develops computational models to simulate and predict human behaviors; and (3) proposes and evaluates design ideas to enable effective and safe collaborations between humans and intelligent agents. See more information on [Research](./research).
 
 <a role="button" href="#bm1" class="btn btn-primary btn-md"> Lab Director </a>
 <a role="button" href="#bm2" class="btn btn-primary btn-md"> Current Students </a>
@@ -10,6 +10,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 ---
 ## Lab Director {#bm1}
+<p></p>
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
