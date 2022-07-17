@@ -23,7 +23,7 @@ Find below the links to each of the subsections:
 ## Peer-reviewed Journal Papers {#bm1}
 <p></p>
 
-12. **Du, N.**, Robert Jr, L. P., & Yang, X. J. (2022). A Cross-cultural Investigation of the Effects of Explanations on Drivers’ Trust, Preference, and Anxiety in Highly Automated Vehicles.. *Transportation Research Record*. [[DOI](https://doi.org/10.1177/03611981221100528)\].
+12. **Du, N.**, Robert Jr, L. P., & Yang, X. J. (2022). A Cross-cultural Investigation of the Effects of Explanations on Drivers’ Trust, Preference, and Anxiety in Highly Automated Vehicles. *Transportation Research Record*. [[DOI](https://doi.org/10.1177/03611981221100528)\].
 
 11. Ayoub, J., **Du, N.**, Yang, X. J., & Zhou, F. (2022). Predicting driver takeover time in conditionally automated driving. *IEEE Transactions on Intelligent Transportation Systems*. (The first two authors had euqal contribution). [[DOI](https://doi.org/10.1109/TITS.2022.3154329)\].
 
