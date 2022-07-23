@@ -46,8 +46,8 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {:/}
 
 
-<p></p>
-<p></p>
+<p>&nbsp;</p>
+
 
 {::nomarkdown}
 <div class="main-topic">
@@ -62,9 +62,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {:/}
 
 
-<p></p>
-<p></p>
-<p></p>
+<p>&nbsp;</p>
 
 
 
@@ -82,10 +80,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {:/}
 
 
-<p></p>
-<p></p>
-<p></p>
-
+<p>&nbsp;</p>
 
 
 
