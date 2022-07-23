@@ -46,6 +46,8 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {:/}
 
 
+<p></p>
+<p></p>
 
 {::nomarkdown}
 <div class="main-topic">
@@ -60,6 +62,9 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {:/}
 
 
+<p></p>
+<p></p>
+
 
 
 {::nomarkdown}
@@ -68,11 +73,16 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
         <p>Yutong Zhang is a master student in the Department of Informatics and Networked Systems. She received a B.S. in Computer Science. Her research interests are human-centered interaction and human cognition and behavior study.</p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/yutong.jpg">
+        <img src="images/Profile/yutong.JPG">
     </div>
 </div>
 
 {:/}
+
+
+<p></p>
+<p></p>
+
 
 
 {::nomarkdown}
