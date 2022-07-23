@@ -64,13 +64,15 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 <p></p>
 <p></p>
+<p></p>
+
 
 
 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Yutong Zhang is a master student in the Department of Informatics and Networked Systems. She received a B.S. in Computer Science. Her research interests are human-centered interaction and human cognition and behavior study.</p>
+        <p>Yutong Zhang is a master student in the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. She received a B.S. in Computer Science. Her research interests are human-centered interaction and human cognition and behavior study.</p>
     </div>
     <div class="left-profile-picture">
         <img src="images/Profile/yutong.JPG">
@@ -82,13 +84,15 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 <p></p>
 <p></p>
+<p></p>
+
 
 
 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Yaohan Ding is a graduate student in the Intelligent Systems Program. Previously, She received her B.S. in Biomedical Engineering from Sichuan University, China. Her current research interest is the trust between drivers and autonomous vehicles.</p>
+        <p>Yaohan Ding is a graduate student in the Intelligent Systems Program, School of Computing and Information, at the University of Pittsburgh. Previously, She received her B.S. in Biomedical Engineering from Sichuan University, China. Her current research interest is the trust between drivers and autonomous vehicles.</p>
     </div>
     <div class="left-profile-picture">
         <img src="images/Profile/yaohan.png">
@@ -98,6 +102,8 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {:/}
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 
 
