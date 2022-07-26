@@ -18,7 +18,7 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-  - cv.md
+  # - cv.md
   - research.md
   - pub.md
   - teaching.md
