@@ -9,6 +9,7 @@ Our research goal is to improve human performance, safety, and well-being by app
 <a role="button" href="#bm1" class="btn btn-primary btn-md">Human Factors in Intelligent Transportation Systems </a>
 <a role="button" href="#bm2" class="btn btn-primary btn-md">Human Behavior Modeling </a>
 <a role="button" href="#bm3" class="btn btn-primary btn-md">Trust in Human-Automation Teaming</a>
+<a role="button" href="#bm3" class="btn btn-primary btn-md">Universal Design</a>
 
 
 <p>&nbsp;</p>
@@ -162,12 +163,14 @@ Automated decision aids have been used in a wide array of domains such as milita
 {:/}
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-mobile applications, interfaces, robots
+
 ---
 ## Universal Design {#bm4}
 <p></p>
-We design assistive technologies for People with Disabilities (PwD), such as People who are Blind or Visually Impaired and Wheelchair Users. The assistive technologies of interest could be navigation apps, exoskeleton, robotic wheelchair, etc. Following human-centered design principles, we take an iterative design process to understand user needs, design and evaluate assitive technologies. Our research could help PwD improve their quality of life and social independence by being able to perform mobility activities easier and more frequently. For example, we design the interface of Mebot with the collaboration of [Human Engineering Research Laboratories](https://www.herl.pitt.edu/).
+We design assistive technologies for People with Disabilities (PwD), such as People who are Blind or Visually Impaired and Wheelchair Users. The assistive technologies could be navigation apps, exoskeleton, robotic wheelchair, etc. Following human-centered design principles, we employ an iterative design process to understand user needs, and design and evaluate assitive technologies. Our research could help PwD improve their quality of life and social independence by being able to perform mobility activities easier and more frequently. For example, we design the interface of Mebot with the collaboration of [Human Engineering Research Laboratories](https://www.herl.pitt.edu/).
 
 
 

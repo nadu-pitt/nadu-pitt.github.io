@@ -18,8 +18,8 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 
 
 ## Affiliation
-- [Department of Informatics and Networked Systems](https://www.dins.pitt.edu/) in [School of Computing and Information](https://www.sci.pitt.edu/)
-- [Intelligent Systems Program](https://www.isp.pitt.edu/about), [Pitt Cyber](https://www.cyber.pitt.edu/about-pitt-cyber), [Center for Governance and Markets](https://www.cgm.pitt.edu/about), [Human Engineering Research Laboratories](https://www.herl.pitt.edu/)
+- Primary: [Department of Informatics and Networked Systems](https://www.dins.pitt.edu/), [School of Computing and Information](https://www.sci.pitt.edu/)
+- Affiliated: [Intelligent Systems Program](https://www.isp.pitt.edu/about), [Pitt Cyber](https://www.cyber.pitt.edu/about-pitt-cyber), \\ [Center for Governance and Markets](https://www.cgm.pitt.edu/about), [Human Engineering Research Laboratories](https://www.herl.pitt.edu/)
 
 
 

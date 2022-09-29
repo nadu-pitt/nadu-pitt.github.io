@@ -36,7 +36,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Lesong Jia is a Ph.D. student in the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. He received his master's degree in Design and bachelor's degree in Mechanical Engineering, both from Southeast University. His research interests include Situation Awareness and Human-computer Interaction.</p>
+        <p>Lesong Jia is a PhD student in the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. He received his master's degree in Design and bachelor's degree in Mechanical Engineering, both from Southeast University. His research interests include Situation Awareness and Human-computer Interaction.</p>
     </div>
     <div class="left-profile-picture">
         <img src="images/Profile/lesong.png">
@@ -102,7 +102,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Anjnesh Pawankumar Sharma is a Graduate student in the Department of Information Science, School of Computing and Information, at the University of Pittsburgh. He earned his bachelor's degree in Computer Science. His current research interest is to study crashes and disengagements in autonomous vehicles.
+        <p>Anjnesh Pawankumar Sharma is a graduate student in the Department of Information Science, School of Computing and Information, at the University of Pittsburgh. He earned his bachelor's degree in Computer Science. His current research interest is to study crashes and disengagements in autonomous vehicles.
 </p>
     </div>
     <div class="left-profile-picture">
