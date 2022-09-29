@@ -10,7 +10,7 @@ Find below the links to each of the subsections:
 <a role="button" href="#bm2" class="btn btn-primary btn-md">Peer-reviewed Conference Papers </a>
 <a role="button" href="#bm3" class="btn btn-primary btn-md">Invited Talks</a>
 <a role="button" href="#bm4" class="btn btn-primary btn-md">Poster Presentations </a>
-<a role="button" href="#bm5" class="btn btn-primary btn-md">Thesis</a>
+<!-- <a role="button" href="#bm5" class="btn btn-primary btn-md">Thesis</a> -->
 
 
 <!-- ## On-going stuffs {#bm1}
@@ -173,11 +173,11 @@ Würzburg University, Faculty of Mathematics and Computer Science Seminar Series
 {: reversed="reversed"}
 
 
-<p>&nbsp;</p>
-
+<!-- <p>&nbsp;</p> -->
+<!-- 
 ---
 ## Thesis {#bm5}
 <p></p>
 
-1. **Na Du**, Predicting driver takeover performance and designing an adaptive in-vehicle alert system in conditionally automated driving. 
+1. **Na Du**, Predicting driver takeover performance and designing an adaptive in-vehicle alert system in conditionally automated driving.  -->
 <!-- \[[DOI](http://doi.org/10.15016/xxx)\]. \[[PDF](./share/xx.pdf)\]. \[[SLIDE](./share/xx.pdf)\]. -->

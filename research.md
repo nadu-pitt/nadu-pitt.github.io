@@ -12,7 +12,7 @@ Our research goal is to improve human performance, safety, and well-being by app
 
 <a role="button" href="#bm3" class="btn btn-primary btn-md">Trust in Human-Automation Teaming</a>
 
-<a role="button" href="#bm3" class="btn btn-primary btn-md">Universal Design</a>
+<a role="button" href="#bm4" class="btn btn-primary btn-md">Universal Design</a>
 
 
 <p>&nbsp;</p>
