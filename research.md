@@ -162,6 +162,36 @@ Automated decision aids have been used in a wide array of domains such as milita
 {:/}
 
 
+
+mobile applications, interfaces, robots
+---
+## Universal Design {#bm4}
+<p></p>
+We design assistive technologies for People with Disabilities (PwD), such as People who are Blind or Visually Impaired and Wheelchair Users. The assistive technologies of interest could be navigation apps, exoskeleton, robotic wheelchair, etc. Following human-centered design principles, we take an iterative design process to understand user needs, design and evaluate assitive technologies. Our research could help PwD improve their quality of life and social independence by being able to perform mobility activities easier and more frequently. For example, we design the interface of Mebot with the collaboration of [Human Engineering Research Laboratories](https://www.herl.pitt.edu/).
+
+
+
+
+{::nomarkdown}
+		<div class="main-topic">
+			<div class="right-text">
+				<p>
+<UL>
+
+</UL>
+				</p>
+			</div>
+  			<div class="left-picture">
+				<img src="images/Research/Mebot_interface_all.png">
+			</div>
+  </div>
+
+{:/}
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 <!-- <img src="images/Research/SDT1.png" align="left" width="20%"> -->
 
 
