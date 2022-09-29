@@ -59,6 +59,11 @@ Find below the links to each of the subsections:
 ## Peer-reviewed Conference Papers {#bm2}
 <p></p>
 
+12. Pesaru, V., **Du, N.** (2022). Investigating the Effects of Driver Factors on Crash Involvement using SHRP2 Naturalistic Driving Study Dataset. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. 
+
+11. **Du, N.**, Wu, X., Misu, T., Akash, K. (2022). A Preliminary Study of Modeling Driver Situational Awareness based on SEEV and ACT-R Models. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. 
+
+
 10. **Du, N.**, Zhou, F., Tilbury, D., Robert, L. P., & Yang, X. J. (2021). Designing Alert Systems in Takeover Transitions: The Effects of Display Information and Modality. *13th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI '21)*. September 13--14, 2021, Virtual Event, Leeds, UK. \[[DOI](https://doi.org/10.1145/3409118.3475155)\].
 
 9. **Du, N.**, Kim, J., Zhou, F., Tilbury, D., Robert, L. P., Pradhan, A., & Yang, X. J. (2020). Examining effects of scenario type and vehicle speed on takeover readiness and performance in conditionally automated driving. *In Proceedings of the 64th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Chicago, IL. October. \[[DOI](https://doi.org/10.1177/1071181320641482)\].
