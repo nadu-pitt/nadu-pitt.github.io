@@ -59,6 +59,8 @@ Find below the links to each of the subsections:
 ## Peer-reviewed Conference Papers {#bm2}
 <p></p>
 
+13. Zhang, Y., Ling, S., Awad, E., Frank, M. R., & **Du, N.** (2023, April). Driving Next to Automated Vehicles: Emergent Human-machine Cooperation in Mixed Traffic. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-7).
+
 12. Pesaru, V., **Du, N.** (2022). Investigating the Effects of Driver Factors on Crash Involvement using SHRP2 Naturalistic Driving Study Dataset. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. 
 
 11. **Du, N.**, Wu, X., Misu, T., Akash, K. (2022). A Preliminary Study of Modeling Driver Situational Awareness based on SEEV and ACT-R Models. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. 

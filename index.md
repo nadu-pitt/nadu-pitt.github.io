@@ -36,18 +36,15 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News
+- 04/2023: We presented our LBW [paper](https://dl.acm.org/doi/10.1145/3544549.3585690) on studying human-machine cooperation in mixed traffic in CHI 2023.
+- 03/2023: We presented our poster on investigating attending and resident behaviors around interruptions in the Emergency Department in the 13th International Symposium on Human Factors and Ergonomics in Health Care.
+- 11/2022: We received [Pitt Cyber Accelerator Grants](https://www.cyber.pitt.edu/pcag) for our work on an adaptive Voice User Interface of navigation apps for People with Disabilities. 
+- 10/2022: Our [paper](https://journals.sagepub.com/doi/abs/10.1177/1071181322661246) on modeling driver situational awareness based on SEEV and ACT-R models won the HFES Human Performance Modeling Technical Group Best Paper Award.
+- 10/2022: We presented our [work](https://journals.sagepub.com/doi/abs/10.1177/1071181322661524) on crash analysis using naturalistic driving dataset in HFES 2022.
 - 06/2022: Our [paper](https://journals.sagepub.com/doi/abs/10.1177/03611981221100528) on cultural investigation of how explanations influence trust was published on Transportation Research Record. 
 - 04/2022: Our [paper](https://www.tandfonline.com/doi/abs/10.1080/10447318.2022.2097602) on enhancing AI transparency in human-autonomy team was accepted by International Journal of Human-Computer Interaction. 
+- 03/2022: We received [Pitt Momentum Fund](http://d-scholarship.pitt.edu/42309/) for our work on modeling driver situational awareness in automated driving.
 - 03/2022: Our [paper](https://ieeexplore.ieee.org/document/9733956) on takeover time prediction was published on IEEE Transactions on Intelligent Transportation Systems. 
-- 11/2021: Our [poster](https://www.isaap2021.com/posters) on driver takeover performance modeling was presented in ISAAP2021.
-- 09/2021: I presented our [paper](https://doi.org/10.1145/3409118.3475155) on in-vehicle alert system design in Automotive UI 2021.
-- 04/2021: I passed my dissertation defense.
-- 01/2021: I received the [Towner Prize for Distinguished Academic Achievement](https://studentaffairs.engin.umich.edu/graduate-student-achievements/) at University of Michigan. 
-- 11/2020: I start an internship at Honda Research Institution.
-- 10/2020: I received the Metropolitan Detroit Society for Information Display Academic Award.
-- 10/2020: I received the [HFE WOMAN Rising Star Award](https://www.hfewoman.com/awards) and [HFES Student Member with Honors Award](https://www.hfes.org/Membership/Awards/Student-and-Student-Chapter-Awards). 
-
-View all news [here](./all_news)!
 
 <!-- ---
 ## Latest publications
