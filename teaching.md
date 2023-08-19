@@ -7,7 +7,7 @@ title: Teaching
 <p></p>
 - INFSCI 0410: Human-cenerted Systems, University of Pittsburgh, Fall 2022
 - INFSCI 3350: Doctoral Seminar, University of Pittsburgh, Fall 2021
-- INFSCI 2300: Human Information Processing, University of Pittsburgh, Spring 2022-2023
+- INFSCI 2300: Human Information Processing, University of Pittsburgh, Fall 2023, Spring 2022-2023
   
 
 <p>&nbsp;</p>
