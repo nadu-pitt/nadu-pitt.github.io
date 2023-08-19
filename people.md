@@ -122,7 +122,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/Beining.jpg">
+        <img src="images/Profile/Beining.JPG">
     </div>
 </div>
 
