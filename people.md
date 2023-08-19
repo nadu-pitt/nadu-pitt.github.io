@@ -70,7 +70,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Yutong Zhang is a PhD student in the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. She received a B.S. in Computer Science and Master in Information Science. Her research interests are human-centered interaction and human cognition and behavior study.</p>
+        <p>Yutong Zhang is a PhD student in the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. She received a B.S. in Computer Science and Master degree in Information Science. Her research interests are human-centered interaction and human cognition and behavior study.</p>
     </div>
     <div class="left-profile-picture">
         <img src="images/Profile/yutong.JPG">
