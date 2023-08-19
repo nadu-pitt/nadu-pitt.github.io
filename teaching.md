@@ -13,13 +13,13 @@ title: Teaching
 <p>&nbsp;</p>
 ## Module Instructor
 <p></p>
-- IOE591: Ergonomics Research Methods Laboratory, University at Michigan, Winter 2018-2020 
+- IOE591: Ergonomics Research Methods Laboratory, University of Michigan, Winter 2018-2020 
 
 
 <p>&nbsp;</p>
 ## Guest Lecturer
 <p></p>
-- IOE836: Human performance Seminar, University at Michigan, Fall 2018-2019.
+- IOE836: Human performance Seminar, University of Michigan, Fall 2018-2019.
 - IOE 491: User Interface/User Experience (UI/UX) Design, University of Michigan, Fall 2020.
 - IMSE 317: Engineering Probability and Statistics, University of Michigan-Dearborn, Fall 2020.
 

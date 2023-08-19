@@ -115,6 +115,21 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Beining Yang is a graduate student in Information Science at the University of Pittsburgh. She earned her B.S. in Information Science at Cornell University. Her research focuses on Human Computer Interaction, Virtual Reality, and Data Analysis. One fun fact about her: the only pet she had ever kept is a hermit crab when she was eight.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Beining.jpg">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
 
 
 
