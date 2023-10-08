@@ -99,20 +99,6 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
-{::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Anjnesh Pawankumar Sharma is a graduate student in the Department of Information Science, School of Computing and Information, at the University of Pittsburgh. He earned his bachelor's degree in Computer Science. His current research interest is to study crashes and disengagements in autonomous vehicles.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/Anjnesh.jpg">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p>
-
 
 
 {::nomarkdown}
@@ -132,12 +118,27 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Nihal Desai is a graduate student in the Dept. of Information Science, School of Computing and Information, at the University of Pittsburgh. He previously earned his Bachelors degree in Electronics and Instrumentation from BMS College of Engineering, India. His current research interest is human-centered interaction, accessible design and autonomous vehicles.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Nihal_Resized.png">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
 
 
 ---
 ## Lab Alumni {#bm3}
 <p></p>
-- Yingfan Zhou (IS): Developing driving simulation in Unreal Engine. --> PhD student @ Penn State
+- Anjnesh Sharma (MS'23, IS): Exploratory analysis of automated vehicle crashes using an NLP Pipeline. --> Engineer @ Qualcomm
 - Vigneshwar Pesaru (MS'22, OR): Modeling driving behavior using naturalistic driving dataset. --> Solutions Architect (AI/ML) @ BlueYonder
+- Yingfan Zhou (IS): Developing driving simulation in Unreal Engine. --> PhD student @ Penn State
 
 <p></p>
