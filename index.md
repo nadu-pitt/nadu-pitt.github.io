@@ -36,6 +36,7 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News
+- 11/2023: We have one HRI paper accepted by HRI 2024. Congratulations to Shihong and Yue! See you in Boulder in March.
 - 08/2023: We have two LBW papers accepted by IROS 2023. Congratulations to Lesong and Shihong!
 - 05/2023: We have four papers accepted by HFES 2023. Congratulations to Shihong, Lesong, Yaohan, Yutong, and Anjnesh!
 - 04/2023: We presented our LBW [paper](https://dl.acm.org/doi/10.1145/3544549.3585690) on studying human-machine cooperation in mixed traffic in CHI 2023.
