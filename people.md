@@ -134,6 +134,23 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Shiqi Wu is a graduate student in Dept. of Electrical and Computer Engineering at the Swanson School of Engineering at the University of Pittsburgh. He earned his bachelor's degree in Computer Science and Technology from the University of Science and Technology Beijing. His current research interests are software engineering, human-computer interaction, and computer vision. He also loves developing games.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Shiqi.jpg">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
 ---
 ## Lab Alumni {#bm3}
 <p></p>
