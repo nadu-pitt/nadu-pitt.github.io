@@ -3,6 +3,16 @@ layout: page
 title: News
 
 ---
+- 01/2024: We have two full papers accepted by CHI 2024. Congratulations to Yutong, Yaohan, and Lesong! See you in Honolulu.
+
+- 11/2023: We have one full paper accepted by HRI 2024. Congratulations to Shihong and Yue! See you in Boulder.
+
+- 10/2023: We received [Pitt Cyber Accelerator Grants](https://www.cyber.pitt.edu/pcag) for our work on studying user privacy awareness in the Metaverse using adversary-based games.
+
+- 10/2023: We presented our two LBW papers in IROS 2023. Good job, Lesong and Shihong!
+
+- 10/2023: We presented our four papers in HFES 2023. Well done, Shihong, Lesong, Yaohan, Yutong, and Anjnesh!
+
 - 04/2023: We presented our LBW [paper](https://dl.acm.org/doi/10.1145/3544549.3585690) on studying human-machine cooperation in mixed traffic in CHI 2023.
 
 - 03/2023: We presented our poster on investigating attending and resident behaviors around interruptions in the Emergency Department in the 13th International Symposium on Human Factors and Ergonomics in Health Care.
