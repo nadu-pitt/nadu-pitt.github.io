@@ -151,11 +151,30 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Danneil Mubbala is an undergraduate student in the Kenneth P. Dietrich School of Arts & Sciences at the University of Pittsburgh. She is pursuing a Psychology major with a minor in Business. Her research interests include human-computer interaction, decision science, and behavioral research. One fun fact about her: she loves musical theatre.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/DM_headshot.png">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
+
 ---
 ## Lab Alumni {#bm3}
 <p></p>
 - Anjnesh Sharma (MS'23, IS): Exploratory analysis of automated vehicle crashes using an NLP Pipeline. --> Engineer @ Qualcomm
 - Vigneshwar Pesaru (MS'22, OR): Modeling driving behavior using naturalistic driving dataset. --> Solutions Architect (AI/ML) @ BlueYonder
 - Yingfan Zhou (IS): Developing driving simulation in Unreal Engine. --> PhD student @ Penn State
+- Minh Phan (CS & Art): Designing navigation tools for people with visual impairments. --> Undergraduate @ College of Wooster
 
 <p></p>
