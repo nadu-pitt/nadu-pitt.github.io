@@ -25,7 +25,7 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 
 ## Contact
 - Email: na.du@pitt.edu
-- Office: Room 722, IS Building, 135 North Bellefield Avenue, Pittsburgh, PA 15260
+- Office: Room 721, IS Building, 135 North Bellefield Avenue, Pittsburgh, PA 15260
 
 
 
@@ -36,6 +36,7 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News (Full list [here](./all_news))
+- 01/2024: We receive a [grant](https://www.dins.pitt.edu/news/na-du-secures-funding-honda-research-institute) from Honda Research Institute (HRI) to study emotions in Human-AI interaction. Thanks, HRI.
 - 01/2024: We have two full papers accepted by CHI 2024. Congratulations to Yutong, Yaohan, and Lesong! See you in Honolulu.
 - 11/2023: We have one full paper accepted by HRI 2024. Congratulations to Shihong and Yue! See you in Boulder.
 - 10/2023: We received [Pitt Cyber Accelerator Grants](https://www.cyber.pitt.edu/pcag) for our work on studying user privacy awareness in the Metaverse using adversary-based games.

@@ -3,6 +3,8 @@ layout: page
 title: News
 
 ---
+- 01/2024: We receive a [grant](https://www.dins.pitt.edu/news/na-du-secures-funding-honda-research-institute) from Honda Research Institute (HRI) to study emotions in Human-AI interaction. Thanks, HRI.
+
 - 01/2024: We have two full papers accepted by CHI 2024. Congratulations to Yutong, Yaohan, and Lesong! See you in Honolulu.
 
 - 11/2023: We have one full paper accepted by HRI 2024. Congratulations to Shihong and Yue! See you in Boulder.
