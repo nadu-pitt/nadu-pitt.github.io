@@ -155,6 +155,22 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
+        <p>Chenglue Huang is a graduate student in the Department of Information Science in the School of Computing and Information at the University of Pittsburgh. Prior to pursuing his graduate studies, he obtained his Bachelor's degree in Computer Science from Xi'an University of Architecture and Technology. His current research interests lie in the fields of Human-Computer Interaction, Natural Language Processing, and Knowledge Graphs. In addition to his academic pursuits, he also enjoys the sport of fencing.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Huang.jpg">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
         <p>Danneil Mubbala is an undergraduate student in the Kenneth P. Dietrich School of Arts & Sciences at the University of Pittsburgh. She is pursuing a Psychology major with a minor in Business. Her research interests include human-computer interaction, decision science, and behavioral research. One fun fact about her: she loves musical theatre.
 </p>
     </div>

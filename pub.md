@@ -23,7 +23,9 @@ Find below the links to each of the subsections:
 ## Peer-reviewed Journal Papers {#bm1}
 <p></p>
 
-12. **Du, N.**, Robert Jr, L. P., & Yang, X. J. (2022). A Cross-cultural Investigation of the Effects of Explanations on Drivers’ Trust, Preference, and Anxiety in Highly Automated Vehicles. *Transportation Research Record*. [[DOI](https://doi.org/10.1177/03611981221100528)\].
+13. **Du, N.**, Zhou, F., Tilbury, D. M., Robert, L. P., & Yang, X. J. 2024). Behavioral and Physiological Responses to Takeovers in Different Scenarios during Conditionally Automated Driving. *Transportation Research Part F: Traffic Psychology and Behaviour*. 101, 320-331. [[DOI](https://doi.org/10.1016/j.trf.2024.01.008)\].
+
+12. **Du, N.**, Robert Jr, L. P., & Yang, X. J. (2023). A Cross-cultural Investigation of the Effects of Explanations on Drivers’ Trust, Preference, and Anxiety in Highly Automated Vehicles. *Transportation Research Record*. [[DOI](https://doi.org/10.1177/03611981221100528)\].
 
 11. Ayoub, J., **Du, N.**, Yang, X. J., & Zhou, F. (2022). Predicting driver takeover time in conditionally automated driving. *IEEE Transactions on Intelligent Transportation Systems*. (The first two authors had euqal contribution). [[DOI](https://doi.org/10.1109/TITS.2022.3154329)\].
 
@@ -59,12 +61,27 @@ Find below the links to each of the subsections:
 ## Peer-reviewed Conference Papers {#bm2}
 <p></p>
 
-13. Zhang, Y., Ling, S., Awad, E., Frank, M. R., & **Du, N.** (2023, April). Driving Next to Automated Vehicles: Emergent Human-machine Cooperation in Mixed Traffic. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-7).
+20. Ding, Y., Jia, L., & **Du, N.** (2024). One Size Does Not Fit All: Designing and Evaluating Criticality-Adaptive Displays in Highly Automated Vehicles. *The 2024 CHI Conference on Human Factors in Computing Systems*. 
 
-12. Pesaru, V., **Du, N.** (2022). Investigating the Effects of Driver Factors on Crash Involvement using SHRP2 Naturalistic Driving Study Dataset. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. 
+19. Zhang, Y., Awad, E., Frank, M. R., Liu, P., & **Du, N.** (2024). Understanding Human-machine Cooperation in Game-theoretical Driving Scenarios amid Mixed Traffic. *The 2024 CHI
+Conference on Human Factors in Computing Systems*. 
 
-11. **Du, N.**, Wu, X., Misu, T., Akash, K. (2022). A Preliminary Study of Modeling Driver Situational Awareness based on SEEV and ACT-R Models. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. 
+18. Ling, S., Yue Wan, Xiaowei Jia, & **Du, N.** (2024). Improving Explainable Object-induced Model through Uncertainty for Automated Vehicles. *The 2024 ACM/IEEE International Con-
+ference on Human-Robot Interaction*. \[[DOI](https://doi.org/10.1145/3610977.3634973)\].
 
+17. Ling, S., Zhang, Y., & **Du, N.** (2023). Impacts of AI-Generated Con dence and Explanations on Task Performance and Trust in Human-autonomy Teaming. *In Proceedings of the 67th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Washington, DC. October. \[[DOI](https://doi.org/10.1177/21695067231195002)\].
+
+16. Jia, L., & **Du, N.** (2023). Effects of traffic conditions on driver takeover performance and situational awareness. *In Proceedings of the 67th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Washington, DC. October. \[[DOI](https://doi.org/10.1177/21695067231192292)\].
+
+15. Ding, Y., Jia, L., & **Du, N.** (2023). Designing for Trust and Situational Awareness in Automated Vehicles: Effects of Information Type and Error Type. *In Proceedings of the 67th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Washington, DC. October. \[[DOI](https://doi.org/10.1177/21695067231192406)\].
+
+14. Sharma, A., & **Du, N.** (2023). Exploratory Analysis of Automated Vehicle Crashes Using an NLP Pipeline. *In Proceedings of the 67th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Washington, DC. October. \[[DOI](https://doi.org/10.1177/21695067231194987)\].
+
+13. Zhang, Y., Ling, S., Awad, E., Frank, M. R., & **Du, N.** (2023, April). Driving Next to Automated Vehicles: Emergent Human-machine Cooperation in Mixed Traffic. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-7). \[[DOI](https://doi.org/10.1145/3544549.3585690)\].
+
+12. Pesaru, V., **Du, N.** (2022). Investigating the Effects of Driver Factors on Crash Involvement using SHRP2 Naturalistic Driving Study Dataset. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. \[[DOI](https://doi.org/10.1177/107118132266152)\].
+
+11. **Du, N.**, Wu, X., Misu, T., Akash, K. (2022). A Preliminary Study of Modeling Driver Situational Awareness based on SEEV and ACT-R Models. *In Proceedings of the 66th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Atlanta, GA. October. \[[DOI](https://doi.org/10.1177/1071181322661246)\].
 
 10. **Du, N.**, Zhou, F., Tilbury, D., Robert, L. P., & Yang, X. J. (2021). Designing Alert Systems in Takeover Transitions: The Effects of Display Information and Modality. *13th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI '21)*. September 13--14, 2021, Virtual Event, Leeds, UK. \[[DOI](https://doi.org/10.1145/3409118.3475155)\].
 
