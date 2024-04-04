@@ -66,8 +66,7 @@ Find below the links to each of the subsections:
 19. Zhang, Y., Awad, E., Frank, M. R., Liu, P., & **Du, N.** (2024). Understanding Human-machine Cooperation in Game-theoretical Driving Scenarios amid Mixed Traffic. *The 2024 CHI
 Conference on Human Factors in Computing Systems*. 
 
-18. Ling, S., Yue Wan, Xiaowei Jia, & **Du, N.** (2024). Improving Explainable Object-induced Model through Uncertainty for Automated Vehicles. *The 2024 ACM/IEEE International Con-
-ference on Human-Robot Interaction*. \[[DOI](https://doi.org/10.1145/3610977.3634973)\].
+18. Ling, S., Yue Wan, Xiaowei Jia, & **Du, N.** (2024). Improving Explainable Object-induced Model through Uncertainty for Automated Vehicles. *The 2024 ACM/IEEE International Conference on Human-Robot Interaction*. \[[DOI](https://doi.org/10.1145/3610977.3634973)\].
 
 17. Ling, S., Zhang, Y., & **Du, N.** (2023). Impacts of AI-Generated Con dence and Explanations on Task Performance and Trust in Human-autonomy Teaming. *In Proceedings of the 67th Annual Meeting of the Human Factors and Ergonomics Society (HFES)*. Washington, DC. October. \[[DOI](https://doi.org/10.1177/21695067231195002)\].
 

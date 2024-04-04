@@ -134,7 +134,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
-
+<!-- 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
@@ -148,7 +148,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 {:/}
 <p>&nbsp;</p>
-
+ -->
 
 
 
@@ -159,7 +159,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/Huang.jpg">
+        <img src="images/Profile/Huang.png">
     </div>
 </div>
 
@@ -188,6 +188,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 ---
 ## Lab Alumni {#bm3}
 <p></p>
+- Shiqi Wu (MS'24, ECE): Developing driving simulation in Unreal Engine. --> MS student @ Chalmers University of Technology
 - Anjnesh Sharma (MS'23, IS): Exploratory analysis of automated vehicle crashes using an NLP Pipeline. --> Engineer @ Qualcomm
 - Vigneshwar Pesaru (MS'22, OR): Modeling driving behavior using naturalistic driving dataset. --> Solutions Architect (AI/ML) @ BlueYonder
 - Yingfan Zhou (IS): Developing driving simulation in Unreal Engine. --> PhD student @ Penn State
