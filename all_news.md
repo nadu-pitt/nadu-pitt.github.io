@@ -3,6 +3,10 @@ layout: page
 title: News
 
 ---
+- 09/2024: We presented our two LBW papers in Auto UI 2024. 
+
+- 09/2024: We presented our [paper](https://journals.sagepub.com/doi/full/10.1177/10711813241275904) on situational awareness prediction in HFES 2024. Good job, Lesong!
+
 - 01/2024: We receive a [grant](https://www.dins.pitt.edu/news/na-du-secures-funding-honda-research-institute) from Honda Research Institute (HRI) to study emotions in Human-AI interaction. Thanks, HRI.
 
 - 01/2024: We have two full papers accepted by CHI 2024. Congratulations to Yutong, Yaohan, and Lesong! See you in Honolulu.

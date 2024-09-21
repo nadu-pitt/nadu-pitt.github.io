@@ -87,7 +87,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Yaohan Ding is a graduate student in the Intelligent Systems Program, School of Computing and Information, at the University of Pittsburgh. Previously, She received her B.S. in Biomedical Engineering from Sichuan University, China. Her current research interest is the trust between drivers and autonomous vehicles.</p>
+        <p>Yaohan Ding is a PhD student in the Intelligent Systems Program, School of Computing and Information, at the University of Pittsburgh. Previously, She received her B.S. in Biomedical Engineering from Sichuan University, China. Her current research interest is the trust between drivers and autonomous vehicles.</p>
     </div>
     <div class="left-profile-picture">
         <img src="images/Profile/yaohan.png">
@@ -101,7 +101,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
-{::nomarkdown}
+<!-- {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
         <p>Beining Yang is a graduate student in Information Science at the University of Pittsburgh. She earned her B.S. in Information Science at Cornell University. Her research focuses on Human Computer Interaction, Virtual Reality, and Data Analysis. One fun fact about her: the only pet she had ever kept is a hermit crab when she was eight.
@@ -131,24 +131,24 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 {:/}
 <p>&nbsp;</p>
+ -->
 
 
 
-<!-- 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Shiqi Wu is a graduate student in Dept. of Electrical and Computer Engineering at the Swanson School of Engineering at the University of Pittsburgh. He earned his bachelor's degree in Computer Science and Technology from the University of Science and Technology Beijing. His current research interests are software engineering, human-computer interaction, and computer vision. He also loves developing games.
+        <p>Bowen Ye is an undergraduate student in the School of Computing and Information at the University of Pittsburgh. He is pursuing an Information Science major and a minor in Computer Science. His research interests include Human-Computer Interaction, autonomous vehicles, and user experience design. He is a super enthusiast in cars and a huge F1 fan. Visiting Art galleries is also one of his great hobbies.
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/Shiqi.jpg">
+        <img src="images/Profile/Bowen.jpg">
     </div>
 </div>
 
 {:/}
 <p>&nbsp;</p>
- -->
+
 
 
 
@@ -188,6 +188,8 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 ---
 ## Lab Alumni {#bm3}
 <p></p>
+- Beining Yang (MS'24, IS): Privacy awareness in Virtual Reality. --> PhD student @ Nanyang Technological University
+- Nihal Desai (MS'24, IS): Emotion regulation in human-robot interaction. --> Salesforce developer @ Watsco
 - Shiqi Wu (MS'24, ECE): Developing driving simulation in Unreal Engine. --> MS student @ Chalmers University of Technology
 - Anjnesh Sharma (MS'23, IS): Exploratory analysis of automated vehicle crashes using an NLP Pipeline. --> Engineer @ Qualcomm
 - Vigneshwar Pesaru (MS'22, OR): Modeling driving behavior using naturalistic driving dataset. --> Solutions Architect (AI/ML) @ BlueYonder

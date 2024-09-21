@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Find below the links to each of the subsections:
+See the most updated publication list [here](https://scholar.google.com/citations?hl=en&user=MaiIv1cAAAAJ&view_op=list_works). Find below the links to each of the subsections:
 
 
 <a role="button" href="#bm1" class="btn btn-primary btn-md">Peer-reviewed Journal Papers </a>
