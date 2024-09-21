@@ -138,6 +138,22 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
+        <p>Chenglue Huang is a graduate student in the Department of Information Science in the School of Computing and Information at the University of Pittsburgh. Prior to pursuing his graduate studies, he obtained his Bachelor's degree in Computer Science from Xi'an University of Architecture and Technology. His current research interests lie in the fields of Human-Computer Interaction, Natural Language Processing, and Knowledge Graphs. In addition to his academic pursuits, he also enjoys the sport of fencing.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Huang.png">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
         <p>Bowen Ye is an undergraduate student in the School of Computing and Information at the University of Pittsburgh. He is pursuing an Information Science major and a minor in Computer Science. His research interests include Human-Computer Interaction, autonomous vehicles, and user experience design. He is a super enthusiast in cars and a huge F1 fan. Visiting Art galleries is also one of his great hobbies.
 </p>
     </div>
@@ -151,20 +167,6 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
-
-{::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Chenglue Huang is a graduate student in the Department of Information Science in the School of Computing and Information at the University of Pittsburgh. Prior to pursuing his graduate studies, he obtained his Bachelor's degree in Computer Science from Xi'an University of Architecture and Technology. His current research interests lie in the fields of Human-Computer Interaction, Natural Language Processing, and Knowledge Graphs. In addition to his academic pursuits, he also enjoys the sport of fencing.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/Huang.png">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p>
 
 
 
