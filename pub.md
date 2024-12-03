@@ -9,7 +9,7 @@ See the most updated publication list [here](https://scholar.google.com/citation
 <a role="button" href="#bm1" class="btn btn-primary btn-md">Peer-reviewed Journal Papers </a>
 <a role="button" href="#bm2" class="btn btn-primary btn-md">Peer-reviewed Conference Papers </a>
 <a role="button" href="#bm3" class="btn btn-primary btn-md">Invited Talks</a>
-<a role="button" href="#bm4" class="btn btn-primary btn-md">Poster Presentations </a>
+<!-- <a role="button" href="#bm4" class="btn btn-primary btn-md">Poster Presentations </a> -->
 <!-- <a role="button" href="#bm5" class="btn btn-primary btn-md">Thesis</a> -->
 
 
@@ -23,7 +23,7 @@ See the most updated publication list [here](https://scholar.google.com/citation
 ## Peer-reviewed Journal Papers {#bm1}
 <p></p>
 
-13. **Du, N.**, Zhou, F., Tilbury, D. M., Robert, L. P., & Yang, X. J. 2024). Behavioral and Physiological Responses to Takeovers in Different Scenarios during Conditionally Automated Driving. *Transportation Research Part F: Traffic Psychology and Behaviour*. 101, 320-331. [[DOI](https://doi.org/10.1016/j.trf.2024.01.008)\].
+13. **Du, N.**, Zhou, F., Tilbury, D. M., Robert, L. P., & Yang, X. J. (2024). Behavioral and Physiological Responses to Takeovers in Different Scenarios during Conditionally Automated Driving. *Transportation Research Part F: Traffic Psychology and Behaviour*. 101, 320-331. [[DOI](https://doi.org/10.1016/j.trf.2024.01.008)\].
 
 12. **Du, N.**, Robert Jr, L. P., & Yang, X. J. (2023). A Cross-cultural Investigation of the Effects of Explanations on Drivers’ Trust, Preference, and Anxiety in Highly Automated Vehicles. *Transportation Research Record*. [[DOI](https://doi.org/10.1177/03611981221100528)\].
 
@@ -61,10 +61,10 @@ See the most updated publication list [here](https://scholar.google.com/citation
 ## Peer-reviewed Conference Papers {#bm2}
 <p></p>
 
-20. Ding, Y., Jia, L., & **Du, N.** (2024). One Size Does Not Fit All: Designing and Evaluating Criticality-Adaptive Displays in Highly Automated Vehicles. *The 2024 CHI Conference on Human Factors in Computing Systems*. 
+20. Ding, Y., Jia, L., & **Du, N.** (2024). One Size Does Not Fit All: Designing and Evaluating Criticality-Adaptive Displays in Highly Automated Vehicles. *The 2024 CHI Conference on Human Factors in Computing Systems*. [[DOI](https://doi.org/10.1145/3613904.3642648)\]
 
 19. Zhang, Y., Awad, E., Frank, M. R., Liu, P., & **Du, N.** (2024). Understanding Human-machine Cooperation in Game-theoretical Driving Scenarios amid Mixed Traffic. *The 2024 CHI
-Conference on Human Factors in Computing Systems*. 
+Conference on Human Factors in Computing Systems*. [[DOI](https://doi.org/10.1145/3613904.3642053)\]
 
 18. Ling, S., Yue Wan, Xiaowei Jia, & **Du, N.** (2024). Improving Explainable Object-induced Model through Uncertainty for Automated Vehicles. *The 2024 ACM/IEEE International Conference on Human-Robot Interaction*. \[[DOI](https://doi.org/10.1145/3610977.3634973)\].
 
@@ -163,7 +163,7 @@ Würzburg University, Faculty of Mathematics and Computer Science Seminar Series
  -->
 
 
-
+<!-- 
 <p>&nbsp;</p>
 
 ---
@@ -186,11 +186,11 @@ Würzburg University, Faculty of Mathematics and Computer Science Seminar Series
 
 2. "Challenging the concept of race reduces neural coding of same-race versus other-race faces". Presented at The 10th Annual Meeting of the Social and Affective Neuroscience Society, Los Angeles, CA, March 2017.
 
-1. "Modeling salience from saccade curvature". Presented at Natural Sciences and Engineering Research Council (NSERC) Poster Presentation Day, Toronto, ON, August 2015.
-<!-- \[[SLIDE](./share/XX.pdf)\] -->
+1. "Modeling salience from saccade curvature". Presented at Natural Sciences and Engineering Research Council (NSERC) Poster Presentation Day, Toronto, ON, August 2015. -->
+<!-- \[[SLIDE](./share/XX.pdf)\]
 {: reversed="reversed"}
 
-
+ -->
 <!-- <p>&nbsp;</p> -->
 <!-- 
 ---
