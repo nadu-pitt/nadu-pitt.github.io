@@ -151,6 +151,24 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
+
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Danneil Mubbala is an undergraduate student in the Kenneth P. Dietrich School of Arts & Sciences at the University of Pittsburgh. She is pursuing a Psychology major with a minor in Business. Her research interests include human-computer interaction, decision science, and behavioral research. One fun fact about her: she loves musical theatre.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/DM_headshot.png">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
@@ -169,21 +187,19 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
-
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Danneil Mubbala is an undergraduate student in the Kenneth P. Dietrich School of Arts & Sciences at the University of Pittsburgh. She is pursuing a Psychology major with a minor in Business. Her research interests include human-computer interaction, decision science, and behavioral research. One fun fact about her: she loves musical theatre.
+        <p>Yu Liu is a senior undergraduate student majoring in Computer Science in the department of Computer Science. My research interests are Computer Vision, Computer Graphic and Machine learning. And I love gaming and drawing.
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/DM_headshot.png">
+        <img src="images/Profile/YuLiu.jpg">
     </div>
 </div>
 
 {:/}
 <p>&nbsp;</p>
-
 
 
 
