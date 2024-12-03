@@ -190,7 +190,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Yu Liu is a senior undergraduate student majoring in Computer Science in the department of Computer Science. My research interests are Computer Vision, Computer Graphic and Machine learning. And I love gaming and drawing.
+        <p>Yu Liu is a senior undergraduate student majoring in Computer Science in the Department of Computer Science. His research interests are Computer Vision, Computer Graphic and Machine learning. And he loves gaming and drawing.
 </p>
     </div>
     <div class="left-profile-picture">
