@@ -133,9 +133,24 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 <p>&nbsp;</p>
  -->
 
-
-
 {::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Sai Vivek Chava is an engineer with over two years of experience in automation, data-driven decision-making, and backend engineering, and is now expanding into AI-driven robotics and simulation. Currently serving as the President of SCIGSO at the University of Pittsburgh, he fosters collaboration and promotes technical growth among graduate students. Outside of his work, Sai enjoys playing snooker or hitting the gym.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Sai.jpg">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
+
+<!-- {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
         <p>Chenglue Huang is a graduate student in the Department of Information Science in the School of Computing and Information at the University of Pittsburgh. Prior to pursuing his graduate studies, he obtained his Bachelor's degree in Computer Science from Xi'an University of Architecture and Technology. His current research interests lie in the fields of Human-Computer Interaction, Natural Language Processing, and Knowledge Graphs. In addition to his academic pursuits, he also enjoys the sport of fencing.
@@ -147,8 +162,23 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 </div>
 
 {:/}
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
+
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Yu Liu is a senior undergraduate student majoring in Computer Science in the Department of Computer Science. His research interests are Computer Vision, Computer Graphic and Machine learning. And he loves gaming and drawing.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/YuLiu.jpg">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
 
 
 
@@ -206,12 +236,13 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 ---
 ## Lab Alumni {#bm3}
 <p></p>
-- Beining Yang (MS'24, IS): Privacy awareness in Virtual Reality. --> PhD student @ Nanyang Technological University
-- Nihal Desai (MS'24, IS): Emotion regulation in human-robot interaction. --> Salesforce developer @ Watsco
-- Shiqi Wu (MS'24, ECE): Developing driving simulation in Unreal Engine. --> MS student @ Chalmers University of Technology
-- Anjnesh Sharma (MS'23, IS): Exploratory analysis of automated vehicle crashes using an NLP Pipeline. --> Engineer @ Qualcomm
-- Vigneshwar Pesaru (MS'22, OR): Modeling driving behavior using naturalistic driving dataset. --> Solutions Architect (AI/ML) @ BlueYonder
-- Yingfan Zhou (IS): Developing driving simulation in Unreal Engine. --> PhD student @ Penn State
-- Minh Phan (CS & Art): Designing navigation tools for people with visual impairments. --> Undergraduate @ College of Wooster
+- Chenglue Huang (MS'24, IS): Situational awareness in human-agent teams --> PhD student @ New Jersey Institute of Technology
+- Beining Yang (MS'24, IS): Privacy awareness in Virtual Reality --> PhD student @ Nanyang Technological University
+- Nihal Desai (MS'24, IS): Emotion regulation in human-robot interaction --> Salesforce developer @ Watsco
+- Shiqi Wu (MS'24, ECE): Developing driving simulation in Unreal Engine --> MS student @ Chalmers University of Technology
+- Anjnesh Sharma (MS'23, IS): Exploratory analysis of automated vehicle crashes using an NLP Pipeline --> Engineer @ Qualcomm
+- Vigneshwar Pesaru (MS'22, OR): Modeling driving behavior using naturalistic driving dataset --> Solutions Architect (AI/ML) @ BlueYonder
+- Yingfan Zhou (IS): Developing driving simulation in Unreal Engine --> PhD student @ Penn State
+- Minh Phan (CS & Art): Designing navigation tools for people with visual impairments --> Undergraduate @ College of Wooster
 
 <p></p>
