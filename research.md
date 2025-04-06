@@ -63,7 +63,7 @@ Intelligent transportation systems with connected and automated vehicles (CAVs) 
 ---
 ## Human-Robot Interaction {#bm2}
 <p></p>
-We model human behaviors and design interaction systems for Human-Robot Interaction (HRI) in diverse settings, including manufacturing and daily life environments. Guided by human-centered design principles, we employ an iterative process to understand user needs, model human states, and design, prototype, and evaluate interaction technologies that facilitate effective communication between users and robotic systems. Our research aims to improve productivity and quality of life by making tasks such as mobility, navigation, and collaborative work more efficient and accessible. For example, we design robotic interfaces for manufacturing workers and wheelchair users in collaboration of [Human Engineering Research Laboratories](https://www.herl.pitt.edu/).
+We model human behaviors and design interaction systems for Human-Robot Interaction (HRI) in diverse settings, including manufacturing and daily life environments. Guided by human-centered design principles, we employ an iterative process to understand user needs, model human states, and design, prototype, and evaluate interaction technologies that facilitate effective communication between users and robotic systems. Our research aims to improve productivity and quality of life by making tasks such as mobility, navigation, and collaborative work more efficient and accessible. For example, we design robotic interfaces for manufacturing workers and wheelchair users.
 
 
 
@@ -125,7 +125,7 @@ We use both data-driven methods and cognitive architecture to model dynamic huma
 ## Trust and Situational Awareness in Human-Automation Teaming {#bm4}
 <p></p>
 
-The advances in artificial intelligence (AI) and machine learning are driving a new generation of intelligent systems. However, as these systems become more complex, human operators often treat automation as a mysterious black box, lacking appropriate trust and situational awareness needed for effective collaboration. To address this challenge, our research designs and evaluates interfaces that enhance situational awareness through varying information types, timing, and modalities to improve system transparency. By providing operators with relevant and timely information, our work helps them build appropriate trust, make informed decisions, and collaborate more effectively with intelligent systems. Application domains include automated vehicles, automated decision aids (e.g., military operations and medical diagnosis), and general algorithms.
+Advances in artificial intelligence (AI) and machine learning are powering a new generation of intelligent systems. However, as these systems grow more complex, human operators often perceive them as black boxes, leading to gaps in situational awareness and inappropriate levels of trust, which hinder effective collaboration. To address these challenges, our research models user dynamics in trust and situational awareness, and designs and evaluates interfaces that enhance transparency through diverse information types, timing, and modalities. By improving system transparency, we aim to help users build appropriate trust, make informed decisions, and collaborate more effectively with intelligent systems. Application domains include automated vehicles, drones, robots, automated decision aids (e.g., military operations and medical diagnosis), and general algorithms.
 
 
  
