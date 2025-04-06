@@ -36,7 +36,8 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News (Full list [here](./all_news))
-- 04/2025: We have one full paper accepted by CHI 2025 on human-AI teaming during cyberattacks and another one accepted by IEEE Transactions on Human-Machine Systems on explainable AI in automated vehicles. Congratulations to Yaohan and Lesong! 
+- 04/2025: We have one full paper accepted by CHI 2025 on explainable AI and human-AI teaming during cyberattacks. Congratulations to Yaohan! See you in Yokohama.
+- 04/2025: We have one full paper accepted by IEEE Transactions on Human-Machine Systems on explainable AI in automated vehicles. Congratulations to Yaohan and Lesong! 
 - 12/2024: We have a full paper accepted at HRI 2025, which received the Best Paper Award for research on user aspects of wheelchair-mounted robotic arms. Congratulations to Lesong! See you in Melbourne.
 - 09/2024: We presented our two LBW papers in Auto UI 2024. 
 - 09/2024: We presented our [paper](https://journals.sagepub.com/doi/full/10.1177/10711813241275904) on situational awareness prediction in HFES 2024. Good job, Lesong!
