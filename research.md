@@ -27,18 +27,18 @@ Intelligent transportation systems with connected and automated vehicles (CAVs) 
 {::nomarkdown}
 		<div class="main-topic">
 			<div class="right-text">
-				<img src="images/Research/Investigation copy.png">
-				<p>
+				<img src="images/Research/drone.png">
+				<!-- <p> -->
 <UL>
 <!-- <li>Du et al. (2020). Physiological responses to takeover requests in conditionally automated driving. Accident & Analysis Prevention. <a href="http://doi.org/10.1016/j.aap.2020.105804">[PDF]</a> </li>
 <li>Du et al. (2020). Examining the effects of emotional valence and arousal on takeover performance in conditionally automated driving. Transportation Research Part C: Emerging Technologies.  <a href="http://doi.org/10.1016/j.trc.2020.01.006">[PDF]</a> </li>
 <li>Du et al. (2020). Evaluating Effects of Cognitive Load, Takeover Request Lead Time, and Traffic Density on Drivers' Takeover Performance in Conditionally Automated Driving. Automotive UI 2020.  <a href="http://doi.org/10.1145/3409120.3410666">[PDF]</a>  <a href="https://www.youtube.com/watch?v=F34DHjgcn2I">[Video]</a> </li> -->
 <!-- <li>Du et al. (2020). Examining effects of scenario type and vehicle speed on takeover readiness and performance in conditionally automated driving. HFES 2020. <a href="https://doi.org/10.1177/1071181320641482">[PDF]</a>  <a href="https://www.youtube.com/watch?v=Ln4pPmwiI9M">[Video]</a> </li> -->
 <!-- </UL> -->
-				</p>
+				<!-- </p> -->
 			</div>
   			<div class="left-picture">
-				<img src="images/Research/drone.png">
+				<img src="images/Research/Investigation copy.png">
 			</div>
   </div>
 
