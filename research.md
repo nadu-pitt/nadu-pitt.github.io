@@ -8,11 +8,11 @@ Our research goal is to improve human performance, safety, and well-being by app
 
 <a role="button" href="#bm1" class="btn btn-primary btn-md">Human Factors in Intelligent Transportation Systems </a>
 
-<a role="button" href="#bm1" class="btn btn-primary btn-md">Human-Robot Interaction </a>
+<a role="button" href="#bm2" class="btn btn-primary btn-md">Human-Robot Interaction </a>
 
-<a role="button" href="#bm2" class="btn btn-primary btn-md">Human Behavior Modeling </a>
+<a role="button" href="#bm3" class="btn btn-primary btn-md">Human Behavior Modeling </a>
 
-<a role="button" href="#bm3" class="btn btn-primary btn-md">Trust and Situational Awareness in Human-Automation Teaming</a>
+<a role="button" href="#bm4" class="btn btn-primary btn-md">Trust and Situational Awareness in Human-Automation Teaming</a>
 
 
 
@@ -27,7 +27,7 @@ Intelligent transportation systems with connected and automated vehicles (CAVs) 
 {::nomarkdown}
 		<div class="main-topic">
 			<div class="right-text">
-				<img src="images/Research/drone.png">
+				<!-- <img src="images/Research/Investigation copy.png"> -->
 				<!-- <p> -->
 <UL>
 <!-- <li>Du et al. (2020). Physiological responses to takeover requests in conditionally automated driving. Accident & Analysis Prevention. <a href="http://doi.org/10.1016/j.aap.2020.105804">[PDF]</a> </li>
@@ -61,7 +61,7 @@ Intelligent transportation systems with connected and automated vehicles (CAVs) 
 
 
 ---
-## Human-Robot Interaction {#bm4}
+## Human-Robot Interaction {#bm2}
 <p></p>
 We model human behaviors and design interaction systems for Human-Robot Interaction (HRI) in diverse settings, including manufacturing and daily life environments. Guided by human-centered design principles, we employ an iterative process to understand user needs, model human states, and design, prototype, and evaluate interaction technologies that facilitate effective communication between users and robotic systems. Our research aims to improve productivity and quality of life by making tasks such as mobility, navigation, and collaborative work more efficient and accessible. For example, we design robotic interfaces for manufacturing workers and wheelchair users in collaboration of [Human Engineering Research Laboratories](https://www.herl.pitt.edu/).
 
@@ -91,7 +91,7 @@ We model human behaviors and design interaction systems for Human-Robot Interact
 
 
 ---
-## Human Behavior Modeling {#bm2}
+## Human Behavior Modeling {#bm3}
 <p></p>
 We use both data-driven methods and cognitive architecture to model dynamic human behaviors and mental states in cyber-physical systems. By leveraging models and methods from both human factors and machine learning, we develop computational models that are capable of predicting or inferring human behaviors when they interact with technologies. The inputs of models can be text, video, physiological data, etc. For example, we develop computational models to predict driver takeover performance in conditionally automated driving and situational awareness in highly automated driving. We use large-scale naturalistic driving datasets and crash databases to model real-world driver bahaviors and improve driving safety. 
 
@@ -122,7 +122,7 @@ We use both data-driven methods and cognitive architecture to model dynamic huma
 
 
 ---
-## Trust and Situational Awareness in Human-Automation Teaming {#bm3}
+## Trust and Situational Awareness in Human-Automation Teaming {#bm4}
 <p></p>
 
 The advances in artificial intelligence (AI) and machine learning are driving a new generation of intelligent systems. However, as these systems become more complex, human operators often treat automation as a mysterious black box, lacking appropriate trust and situational awareness needed for effective collaboration. To address this challenge, our research designs and evaluates interfaces that enhance situational awareness through varying information types, timing, and modalities to improve system transparency. By providing operators with relevant and timely information, our work helps them build appropriate trust, make informed decisions, and collaborate more effectively with intelligent systems. Application domains include automated vehicles, automated decision aids (e.g., military operations and medical diagnosis), and general algorithms.
