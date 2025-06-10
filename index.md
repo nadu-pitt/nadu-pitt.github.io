@@ -12,7 +12,7 @@ layout: page
 
 
 
-I’m an Assistant Professor in the [Department of Informatics and Networked Systems](https://www.dins.pitt.edu/), [School of Computing and Information](https://www.sci.pitt.edu/), at the [University of Pittsburgh](https://www.pitt.edu/). I received my Ph.D. in  Industrial & Operations Engineering from [University of Michigan](https://ioe.engin.umich.edu/). I also received a Graduate Certificate in Data Science at [Michigan Institute for Data Science](https://midas.umich.edu/). My research interests include human factors in smart city domains, human-centered computing, and user experience design. I am actively looking for Ph.D. students and undergraduate/master researchers! See more information [here](./prospective_students).
+I’m an Assistant Professor in the [Department of Informatics and Networked Systems](https://www.dins.pitt.edu/), [School of Computing and Information](https://www.sci.pitt.edu/), at the [University of Pittsburgh](https://www.pitt.edu/). I received my Ph.D. in  Industrial & Operations Engineering from [University of Michigan](https://ioe.engin.umich.edu/). I also received a Graduate Certificate in Data Science at [Michigan Institute for Data Science](https://midas.umich.edu/). My research interests include human factors in smart city domains, human-robot interaction, human-centered computing and design. I am actively looking for Ph.D. students and undergraduate/master researchers! See more information [here](./prospective_students).
 
 <!-- Prior to Ph.D., I received my Bachelor’s degree in Psychology from Zhejiang University.  -->
 
