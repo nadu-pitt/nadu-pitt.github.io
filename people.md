@@ -136,11 +136,11 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Sai Vivek Chava is an engineer with over two years of experience in automation, data-driven decision-making, and backend engineering, and is now expanding into AI-driven robotics and simulation. Currently serving as the President of SCIGSO at the University of Pittsburgh, he fosters collaboration and promotes technical growth among graduate students. Outside of his work, Sai enjoys playing snooker or hitting the gym.
+        <p>Atiyeh Taghia is a Master student in information science within the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. She received her bachelor's degree in software engineering from Azad University in Iran. With over five years of experience in software development, She has built a variety of web applications. Her research interests lie at the intersection of human–computer interaction and explainable AI.
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/sai.jpg">
+        <img src="images/Profile/Atiyeh.png">
     </div>
 </div>
 
@@ -201,14 +201,15 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
+
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Yu Liu is a senior undergraduate student majoring in Computer Science in the Department of Computer Science. His research interests are Computer Vision, Computer Graphic and Machine learning. And he loves gaming and drawing.
+        <p>Makayla Chang is an undergraduate student in the School of Computing and Information at the University of Pittsburgh. She is majoring in Information Science with minors in Computer Science and Mathematics. Her research interests include social computing and HCI. She is also an amateur photographer and designer.
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/YuLiu.jpg">
+        <img src="images/Profile/Makayla.jpg">
     </div>
 </div>
 
@@ -217,9 +218,29 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Yang Ye is an undergraduate student majoring in Computer Science in the School of Computing and Information at the University of Pittsburgh and Sichuan University. Her research interests lie in human-computer interaction, deep learning and the interdisciplinary application of AI.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Yang.jpg">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
+
 ---
 ## Lab Alumni {#bm3}
 <p></p>
+- Sai Vivek Chava (MS'25, IS): Multi-human-multi-drone testbed development in Unity
+- Yu Liu (BS'25, CS): Explanaiable AI and Human-robot interaction --> PhD student @ University of Maryland
 - Chenglue Huang (MS'24, IS): Situational awareness in human-agent teams --> PhD student @ New Jersey Institute of Technology
 - Beining Yang (MS'24, IS): Privacy awareness in Virtual Reality --> PhD student @ Nanyang Technological University
 - Nihal Desai (MS'24, IS): Emotion regulation in human-robot interaction --> Salesforce developer @ Watsco

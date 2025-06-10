@@ -36,9 +36,11 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News (Full list [here](./all_news))
-- 04/2025: We have one full paper accepted by CHI 2025 on explainable AI and human-AI teaming during cyberattacks. Congratulations to Yaohan! See you in Yokohama.
-- 04/2025: We have one full paper accepted by IEEE Transactions on Human-Machine Systems on explainable AI in automated vehicles. Congratulations to Yaohan and Lesong! 
-- 12/2024: We have a full paper accepted at HRI 2025, which received the Best Paper Award for research on user aspects of wheelchair-mounted robotic arms. Congratulations to Lesong! See you in Melbourne.
+- 06/2025: I received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442974&HistoricalAwards=false) to conduct research on team situational awareness and multi-human-multi-agent teams. Thanks for the support, NSF. 
+- 04/2025: We have one full [paper](https://dl.acm.org/doi/10.1145/3706598.3714301) accepted by CHI 2025 on explainable AI and human-AI teaming during cyberattacks. Congratulations to Yaohan! See you in Yokohama.
+- 04/2025: We have one full [paper](https://ieeexplore.ieee.org/abstract/document/10980640) accepted by IEEE Transactions on Human-Machine Systems on explainable AI in automated vehicles. Congratulations to Yaohan and Lesong! 
+- 01/2025: We (PI: Tim Huang) received a grant from the Hillman Foundation to support our research on time travel experiences using virtual reality. Thanks, Hillman Foundation.
+- 12/2024: We have a full [paper](https://ieeexplore.ieee.org/abstract/document/10974057) accepted at HRI 2025, which received the Best Paper Award for research on user aspects of wheelchair-mounted robotic arms. Congratulations to Lesong! See you in Melbourne.
 - 09/2024: We presented our two LBW papers in Auto UI 2024. 
 - 09/2024: We presented our [paper](https://journals.sagepub.com/doi/full/10.1177/10711813241275904) on situational awareness prediction in HFES 2024. Good job, Lesong!
 - 01/2024: We receive a grant from Honda Research Institute (HRI) to study emotions in Human-AI interaction. Thanks, HRI.
