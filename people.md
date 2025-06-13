@@ -240,7 +240,7 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 ## Lab Alumni {#bm3}
 <p></p>
 - Sai Vivek Chava (MS'25, IS): Multi-human-multi-drone testbed development in Unity
-- Yu Liu (BS'25, CS): Explainable AI and Human-robot interaction --> PhD student @ University of Maryland
+- Yu Liu (BS'25, CS): Explainable AI and Human-robot interaction --> PhD student @ University of Maryland, Baltimore County (UMBC)
 - Chenglue Huang (MS'24, IS): Situational awareness in human-agent teams --> PhD student @ New Jersey Institute of Technology
 - Beining Yang (MS'24, IS): Privacy awareness in Virtual Reality --> PhD student @ Nanyang Technological University
 - Nihal Desai (MS'24, IS): Emotion regulation in human-robot interaction --> Salesforce developer @ Watsco
