@@ -36,6 +36,9 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News (Full list [here](./all_news))
+- 10/2025: We received [Pitt Cyber Accelerator Grants](https://www.cyber.pitt.edu/pcag) for our work on mitigating activity inference attacks in Virtual/Augmented Reality (VR/AR).
+- 10/2025: We presented [paper](https://arxiv.org/pdf/2506.22494) on attention-guided explanation generation for complex driving scenarios in IROS 2025. Well done, Shihong!
+- 10/2025: We presented three papers on topics including human-machine cooperation in mixed-traffic, privacy in VR/AR, and emotion regulation in human-robot interaction in HFES 2025. Well done, Lesong, Yaohan, Yutong!
 - 06/2025: I received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442974&HistoricalAwards=false) to conduct research on team situational awareness and multi-human-multi-agent teams. Thanks for the support, NSF. 
 - 04/2025: We have one full [paper](https://dl.acm.org/doi/10.1145/3706598.3714301) accepted by CHI 2025 on explainable AI and human-AI teaming during cyberattacks. Congratulations to Yaohan! See you in Yokohama.
 - 04/2025: We have one full [paper](https://ieeexplore.ieee.org/abstract/document/10980640) accepted by IEEE Transactions on Human-Machine Systems on explainable AI in automated vehicles. Congratulations to Yaohan and Lesong! 
