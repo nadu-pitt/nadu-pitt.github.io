@@ -20,7 +20,7 @@ minima_reboot:
 header_pages:
   # - cv.md
   - research.md
-  - pub.md
+  # - pub.md
   - teaching.md
   - prospective_students.md
   - people.md

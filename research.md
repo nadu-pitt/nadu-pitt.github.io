@@ -4,7 +4,7 @@ title: Research
 ---
 
 
-Our research goal is to improve human performance, safety, and well-being by applying human factors, data analytics, and cognitive science to the analysis, design, and evaluation of the intelligent systems. Research topics include: 
+Our research goal is to improve human performance, safety, and well-being by applying human factors, data analytics, and cognitive science to the analysis, design, and evaluation of the intelligent systems. See the most updated publication list [here](https://scholar.google.com/citations?hl=en&user=MaiIv1cAAAAJ&view_op=list_works). Research topics include: 
 
 <a role="button" href="#bm1" class="btn btn-primary btn-md">Human Factors in Intelligent Transportation Systems </a>
 

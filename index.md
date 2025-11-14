@@ -37,6 +37,7 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 
 ## News (Full list [here](./all_news))
 - 10/2025: We received [Pitt Cyber Accelerator Grants](https://www.cyber.pitt.edu/pcag) for our work on mitigating activity inference attacks in Virtual/Augmented Reality (VR/AR).
+- 10/2025: I gave an invited [talk](https://hcii.cmu.edu/news/event/2025/10/hcii-seminar-series-na-du) titled "Towards Situation-Aware and Trustworthy Technologies for Human-Agent Teaming" in CMU HCII seminar series.
 - 10/2025: We presented [paper](https://arxiv.org/pdf/2506.22494) on attention-guided explanation generation for complex driving scenarios in IROS 2025. Well done, Shihong!
 - 10/2025: We presented three papers on topics including human-machine cooperation in mixed-traffic, privacy in VR/AR, and emotion regulation in human-robot interaction in HFES 2025. Well done, Lesong, Yaohan, Yutong!
 - 09/2025: We published one [paper](https://www.sciencedirect.com/science/article/pii/S0001457525003422) on human-machine cooperation strategies in game-theoretic scenarios within mixed traffic in Accident Analysis & Prevention. Congratulations to Yutong, Shiqi, and Danneil! 
