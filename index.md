@@ -12,7 +12,7 @@ layout: page
 
 
 
-I’m an Assistant Professor in the [Department of Informatics and Networked Systems](https://www.dins.pitt.edu/), [School of Computing and Information](https://www.sci.pitt.edu/), at the [University of Pittsburgh](https://www.pitt.edu/). I received my Ph.D. in  Industrial & Operations Engineering from [University of Michigan](https://ioe.engin.umich.edu/). I also received a Graduate Certificate in Data Science at [Michigan Institute for Data Science](https://midas.umich.edu/). My research interests include human factors in smart city domains, human-robot interaction, human-centered computing and design. I am actively looking for Ph.D. students and undergraduate/master researchers! See more information [here](./prospective_students).
+I’m an Assistant Professor in the [Department of Informatics and Networked Systems](https://www.dins.pitt.edu/), [School of Computing and Information](https://www.sci.pitt.edu/), at the [University of Pittsburgh](https://www.pitt.edu/). I received my Ph.D. in  Industrial & Operations Engineering from [University of Michigan](https://ioe.engin.umich.edu/). I also received a Graduate Certificate in Data Science at [Michigan Institute for Data Science](https://midas.umich.edu/). My research interests include human factors in smart city domains, human-robot interaction, human-centered computing, and interaction design. I am actively looking for Ph.D. students and undergraduate/master researchers! See more information [here](./prospective_students).
 
 <!-- Prior to Ph.D., I received my Bachelor’s degree in Psychology from Zhejiang University.  -->
 
@@ -38,10 +38,10 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ## News (Full list [here](./all_news))
 - 10/2025: We received [Pitt Cyber Accelerator Grants](https://www.cyber.pitt.edu/pcag) for our work on mitigating activity inference attacks in Virtual/Augmented Reality (VR/AR).
 - 10/2025: I gave an invited [talk](https://hcii.cmu.edu/news/event/2025/10/hcii-seminar-series-na-du) titled "Towards Situation-Aware and Trustworthy Technologies for Human-Agent Teaming" in CMU HCII seminar series.
-- 10/2025: We presented [paper](https://arxiv.org/pdf/2506.22494) on attention-guided explanation generation for complex driving scenarios in IROS 2025. Well done, Shihong!
+- 10/2025: We presented a [paper](https://arxiv.org/pdf/2506.22494) on attention-guided explanation generation for complex driving scenarios in IROS 2025. Well done, Shihong!
 - 10/2025: We presented three papers at HFES 2025 on human-machine cooperation in mixed-traffic, privacy in VR/AR, and emotion regulation in human-robot interaction. Well done, Lesong, Yaohan, Yutong!
 - 09/2025: We published one [paper](https://www.sciencedirect.com/science/article/pii/S0001457525003422) on human-machine cooperation strategies in game-theoretic scenarios within mixed traffic in Accident Analysis & Prevention. Congratulations to Yutong, Shiqi, and Danneil! 
-- 08/2025: We published one [paper](https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2546046) on modeling driver situational awareness in takeover scenarios using multimodal data and machine learning in International Journal of Human–Computer Interaction. Congratulations to Lesong! 
+- 08/2025: We published one [paper](https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2546046) on modeling driver situational awareness using multimodal machine learning in International Journal of Human–Computer Interaction. Congratulations to Lesong! 
 - 06/2025: I received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442974&HistoricalAwards=false) to conduct research on team situational awareness and multi-human-multi-agent teams. Thanks for the support, NSF. 
 - 04/2025: We have one full [paper](https://dl.acm.org/doi/10.1145/3706598.3714301) accepted by CHI 2025 on explainable AI and human-AI teaming during cyberattacks. Congratulations to Yaohan! See you in Yokohama.
 - 04/2025: We have one full [paper](https://ieeexplore.ieee.org/abstract/document/10980640) accepted by IEEE Transactions on Human-Machine Systems on explainable AI in automated vehicles. Congratulations to Yaohan and Lesong! 
