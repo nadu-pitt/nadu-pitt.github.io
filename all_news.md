@@ -9,6 +9,10 @@ title: News
 
 - 10/2025: We presented three papers on topics including human-machine cooperation in mixed-traffic, privacy in VR/AR, and emotion regulation in human-robot interaction in HFES 2025. 
 
+- 09/2025: We published one [paper](https://www.sciencedirect.com/science/article/pii/S0001457525003422) on human-machine cooperation strategies in game-theoretic scenarios within mixed traffic in Accident Analysis & Prevention. Congratulations to Yutong, Shiqi, and Danneil! 
+
+- 08/2025: We published one [paper](https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2546046) on modeling driver situational awareness in takeover scenarios using multimodal data and machine learning in International Journal of Human–Computer Interaction. Congratulations to Lesong! 
+
 - 06/2025: I received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2442974&HistoricalAwards=false) to conduct research on team situational awareness and multi-human-multi-agent teams. Thanks for the support, NSF. 
 
 - 04/2025: We have one full [paper](https://dl.acm.org/doi/10.1145/3706598.3714301) accepted by CHI 2025 on explainable AI and human-AI teaming during cyberattacks. Congratulations to Yaohan! See you in Yokohama.
