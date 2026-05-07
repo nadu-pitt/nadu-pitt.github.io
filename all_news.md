@@ -3,7 +3,7 @@ layout: page
 title: News
 
 ---
-- 05/2026: We (PI: Tim Huang) received a grant from the Hillman Foundation to support our research on for intergenerational learning through virtual reality and storytelling. Thanks, Hillman Foundation.
+- 05/2026: We (PI: Tim Huang) received a grant from the Hillman Foundation to support our research on intergenerational learning through virtual reality and storytelling. Thanks, Hillman Foundation.
 
 - 04/2026: We have two full papers (one on [explanation need modeling](https://dl.acm.org/doi/pdf/10.1145/3772318.3791778) and another on [multimodal instruction in HRI](https://dl.acm.org/doi/pdf/10.1145/3757279.3788662)) and one [extended abstract](https://dl.acm.org/doi/full/10.1145/3772363.3798526) presented in CHI 2026.
 
