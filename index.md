@@ -36,6 +36,11 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ---
 
 ## News (Full list [here](./all_news))
+- 05/2026: We (PI: Tim Huang) received a grant from the Hillman Foundation to support our research on for intergenerational learning through virtual reality and storytelling. Thanks, Hillman Foundation.
+- 04/2026: We have two full papers (one on [explanation need modeling](https://dl.acm.org/doi/pdf/10.1145/3772318.3791778) and another on [multimodal instruction in HRI](https://dl.acm.org/doi/pdf/10.1145/3757279.3788662)) and one [extended abstract](https://dl.acm.org/doi/full/10.1145/3772363.3798526) presented in CHI 2026.
+- 03/2026: We have one [paper](https://dl.acm.org/doi/pdf/10.1145/3757279.3788662) on insights from diverse user groups into human–robot communication in domestic settings presented in HRI 2026.
+- 01/2026: We are excited to participate in the Robotic Assisted Mobility and Manipulation Platform (RAMMP) [project](https://www.pittwire.pitt.edu/features-articles/2025/11/04/advanced-research-projects-agency-health-rammp-herl) supported by ARPA-H as a subawardee.
+- 01/2026: We have one paper titled "A Two-Stage Framework for Ego-Centric Key Object Identification via Object State Prediction" accepted by ICRA 2026. 
 - 10/2025: We received [Pitt Cyber Accelerator Grants](https://www.cyber.pitt.edu/pcag) for our work on mitigating activity inference attacks in Virtual/Augmented Reality (VR/AR).
 - 10/2025: I gave an invited [talk](https://hcii.cmu.edu/news/event/2025/10/hcii-seminar-series-na-du) titled "Towards Situation-Aware and Trustworthy Technologies for Human-Agent Teaming" in CMU HCII seminar series.
 - 10/2025: We presented a [paper](https://arxiv.org/pdf/2506.22494) on attention-guided explanation generation for complex driving scenarios in IROS 2025. Well done, Shihong!
