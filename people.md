@@ -101,14 +101,35 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 
 
 
-<!-- {::nomarkdown}
+
+{::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Beining Yang is a graduate student in Information Science at the University of Pittsburgh. She earned her B.S. in Information Science at Cornell University. Her research focuses on Human Computer Interaction, Virtual Reality, and Data Analysis. One fun fact about her: the only pet she had ever kept is a hermit crab when she was eight.
+        <p>Werner Hager is a PhD student in the Intelligent Systems Program, School of Computing and Information, at the University of Pittsburgh. He received his bachelor’s degree in Computational Data Science from Pennsylvania State University. His current research interests are in human-agent teaming and imitation of human behavior.
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/Beining.JPG">
+        <img src="images/Profile/Werner.png">
+    </div>
+</div>
+
+{:/}
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+{::nomarkdown}
+<div class="main-topic">
+    <div class="right-profile-text">
+        <p>Kevin Liu is an undergraduate student in the School of Computing and Information at the University of Pittsburgh, pursuing a major in Computer Science. His research interests include Human-Computer Interaction and behavioral-based robotics learning.
+</p>
+    </div>
+    <div class="left-profile-picture">
+        <img src="images/Profile/Kevin_Liu.jpg">
     </div>
 </div>
 
@@ -121,112 +142,11 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 {::nomarkdown}
 <div class="main-topic">
     <div class="right-profile-text">
-        <p>Nihal Desai is a graduate student in the Dept. of Information Science, School of Computing and Information, at the University of Pittsburgh. He previously earned his Bachelors degree in Electronics and Instrumentation from BMS College of Engineering, India. His current research interest is human-centered interaction, accessible design and autonomous vehicles.
+        <p>Ziyan Wang is a Research Technician at the University of Pittsburgh School of Medicine. He received his bachelor's degree in Psychology from the University of Pittsburgh. His research interests include user experience research, cognitive science, and biomedical research.
 </p>
     </div>
     <div class="left-profile-picture">
-        <img src="images/Profile/Nihal_Resized.png">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p>
- -->
-
-{::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Atiyeh Taghia is a Master student in information science within the Department of Informatics and Networked Systems, School of Computing and Information, at the University of Pittsburgh. She received her bachelor's degree in software engineering from Azad University in Iran. With over five years of experience in software development, She has built a variety of web applications. Her research interests lie at the intersection of human–computer interaction and explainable AI.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/Atiyeh.png">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p>
-
-
-
-
-<!-- {::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Chenglue Huang is a graduate student in the Department of Information Science in the School of Computing and Information at the University of Pittsburgh. Prior to pursuing his graduate studies, he obtained his Bachelor's degree in Computer Science from Xi'an University of Architecture and Technology. His current research interests lie in the fields of Human-Computer Interaction, Natural Language Processing, and Knowledge Graphs. In addition to his academic pursuits, he also enjoys the sport of fencing.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/Huang.png">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p> -->
-
-
-
-
-{::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Danneil Mubbala is an undergraduate student in the Kenneth P. Dietrich School of Arts & Sciences at the University of Pittsburgh. She is pursuing a Psychology major with a minor in Business. Her research interests include human-computer interaction, decision science, and behavioral research. One fun fact about her: she loves musical theatre.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/DM_headshot.png">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p>
-
-
-
-{::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Bowen Ye is an undergraduate student in the School of Computing and Information at the University of Pittsburgh. He is pursuing an Information Science major and a minor in Computer Science. His research interests include Human-Computer Interaction, autonomous vehicles, and user experience design. He is a super enthusiast in cars and a huge F1 fan. Visiting Art galleries is also one of his great hobbies.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/Bowen.jpg">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p>
-
-
-
-
-
-
-{::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Makayla Chang is an undergraduate student in the School of Computing and Information at the University of Pittsburgh. She is majoring in Information Science with minors in Computer Science and Mathematics. Her research interests include social computing and HCI. She is also an amateur photographer and designer.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/Makayla.jpg">
-    </div>
-</div>
-
-{:/}
-<p>&nbsp;</p>
-
-
-
-
-{::nomarkdown}
-<div class="main-topic">
-    <div class="right-profile-text">
-        <p>Yang Ye is an undergraduate student majoring in Computer Science in the School of Computing and Information at the University of Pittsburgh and Sichuan University. Her research interests lie in human-computer interaction, deep learning and the interdisciplinary application of AI.
-</p>
-    </div>
-    <div class="left-profile-picture">
-        <img src="images/Profile/Yang.jpg">
+        <img src="images/Profile/Ziyan.jpg">
     </div>
 </div>
 
@@ -239,6 +159,10 @@ The Human-Autonomy Teaming (HAT) Lab aims to improve human performance, safety, 
 ---
 ## Lab Alumni {#bm3}
 <p></p>
+- Danneil Mubbala (BS'26, Psychology): Human-machine cooperation strategies in mixed traffic --> Master student @ Carnegie Mellon University
+- Bowen Ye (BS'26, IS): Human factors in intelligent transportation systems --> Master student @ University of Michigan
+- Makayla Chang (IS): Understanding and modeling Multimodal Instruction Patterns in Human–Robot Interaction --> Undergraduate @ University of Michigan
+- Yang Ye (CS): Insights from Diverse User Groups into Human–Robot Communication in Domestic Settings --> Undergraduate @ Pitt
 - Sai Vivek Chava (MS'25, IS): Multi-human-multi-drone testbed development in Unity
 - Yu Liu (BS'25, CS): Explainable AI and Human-robot interaction --> PhD student @ University of Maryland, Baltimore County (UMBC)
 - Chenglue Huang (MS'24, IS): Situational awareness in human-agent teams --> PhD student @ New Jersey Institute of Technology
