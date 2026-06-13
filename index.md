@@ -38,7 +38,7 @@ I’m an Assistant Professor in the [Department of Informatics and Networked Sys
 ## News (Full list [here](./all_news))
 - 05/2026: We (PI: Tim Huang) received a grant from the Hillman Foundation to support our research on intergenerational learning through virtual reality and storytelling. Thanks, Hillman Foundation.
 - 04/2026: We have two full papers (one on [explanation need modeling](https://dl.acm.org/doi/pdf/10.1145/3772318.3791778) and another on [multimodal instruction in HRI](https://dl.acm.org/doi/pdf/10.1145/3757279.3788662)) and one [extended abstract](https://dl.acm.org/doi/full/10.1145/3772363.3798526) presented in CHI 2026.
-- 03/2026: We (PI: Rory Cooper) are awared by the Pitt Momentum Teaming Grant to study the AI-Assisted Design and Fabrication of Assistive Technology. 
+- 03/2026: We (PI: Rory Cooper) are awarded by the Pitt Momentum Teaming Grant to study the AI-Assisted Design and Fabrication of Assistive Technology. 
 - 03/2026: We have one [paper](https://dl.acm.org/doi/pdf/10.1145/3757279.3788662) on insights from diverse user groups into human–robot communication in domestic settings presented in HRI 2026.
 - 01/2026: We are excited to participate in the Robotic Assisted Mobility and Manipulation Platform (RAMMP) [project](https://www.pittwire.pitt.edu/features-articles/2025/11/04/advanced-research-projects-agency-health-rammp-herl) supported by ARPA-H as a subawardee.
 - 01/2026: We have one paper titled "A Two-Stage Framework for Ego-Centric Key Object Identification via Object State Prediction" accepted by ICRA 2026. 
